@@ -90,6 +90,36 @@ def delete_game(id):
     """
     game_service.delete_game(id)
     return redirect(url_for('index'))
+@app.route('/edit/<int:id>', methods=['GET', 'POST'])
+def edit_game(id):
+    """
+    Edit an existing game
+    ---
+    parameters:
+      - name: id
+        in: path
+        type: integer
+        required: true
+    responses:
+      200:
+        description: Form for editing
+      302:
+        description: Redirect to index after update
+    """
+   
+    game = game_service.get_game_by_id(id)
+    
+    if not game:
+        return "Гра не знайдена", 404
 
+    if request.method == 'POST':
+        game_service.update_game(
+            game_id=id,
+            title=request.form.get('title'),
+            status=request.form.get('status'),
+            price=request.form.get('price')
+        )
+        return redirect(url_for('index'))
+    return render_template('edit_game.html', game=game)
 if __name__ == '__main__':
     app.run(debug=True, port=5000)

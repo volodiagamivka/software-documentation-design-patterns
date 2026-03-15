@@ -1,29 +1,40 @@
-from core.models import User, FreeGame, PaidGame, GameSession
-from core.interfaces import IRepository, ICSVDataSource
+from core.models import Game, PaidGame, FreeGame
+from core.interfaces import IRepository
 
-class ImportService:
-    def __init__(self, repo: IRepository, loader: ICSVDataSource):
-        self.repo = repo  
-        self.loader = loader
+class GameService:
+    def __init__(self, repo: IRepository):
+        self.repo = repo
+        # Отримуємо доступ до сесії SQLAlchemy через репозиторій
+        self.session = repo.session 
 
-    def execute_import(self, file_path):
-        data = self.loader.get_data(file_path)
+    def get_all_games(self):
+        return self.session.query(Game).all()
+
+    def get_game_by_id(self, game_id):
+        return self.session.query(Game).filter(Game.id == game_id).first()
+
+    def add_game(self, title, status, price):
+        price = float(price)
+        if price > 0:
+            new_game = PaidGame(title=title, status=status, price=price)
+        else:
+            new_game = FreeGame(title=title, status=status)
         
-        users, games, sessions = [], [], []
-        seen_users, seen_games = set(), set()
+        self.session.add(new_game)
+        self.session.commit()
 
-        for row in data:
-            if row['userID'] not in seen_users:
-                users.append(User(id=row['userID'], email=row['email']))
-                seen_users.add(row['userID'])
+    def update_game(self, game_id, title, status, price):
+        game = self.get_game_by_id(game_id)
+        if game:
+            game.title = title
+            game.status = status
+            game.price = float(price)
+            # SQLAlchemy автоматично оновить тип (polymorphic), якщо потрібно, 
+            # але в межах лаби достатньо просто змінити поля
+            self.session.commit()
 
-            gid = int(row['gameID'])
-            if gid not in seen_games:
-                price = float(row['price'])
-                game_cls = PaidGame if price > 0 else FreeGame
-                games.append(game_cls(id=gid, title=row['title'], status=row['status'], price=price))
-                seen_games.add(gid)
-
-            sessions.append(GameSession(user_id=row['userID'], game_id=gid, current_progress=row['progress']))
-
-        self.repo.save_batch(users, games, sessions)
+    def delete_game(self, game_id):
+        game = self.get_game_by_id(game_id)
+        if game:
+            self.session.delete(game)
+            self.session.commit()

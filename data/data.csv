@@ -1,1002 +1,1051 @@
 userID,email,gameID,title,status,price,progress
-u6,user0@test.com,444,SteamGame_0,Active,19.99,84%
-u96,user1@test.com,203,SteamGame_1,Active,19.99,9%
-u11,user2@test.com,394,SteamGame_2,Active,0,82%
-u91,user3@test.com,463,SteamGame_3,Active,19.99,6%
-u25,user4@test.com,473,SteamGame_4,Active,0,86%
-u49,user5@test.com,473,SteamGame_5,Active,19.99,78%
-u33,user6@test.com,456,SteamGame_6,Active,49.99,78%
-u42,user7@test.com,341,SteamGame_7,Active,49.99,57%
-u38,user8@test.com,191,SteamGame_8,Active,19.99,8%
-u86,user9@test.com,338,SteamGame_9,Active,0,23%
-u20,user10@test.com,296,SteamGame_10,Active,0,9%
-u39,user11@test.com,165,SteamGame_11,Active,0,47%
-u16,user12@test.com,159,SteamGame_12,Active,0,33%
-u17,user13@test.com,156,SteamGame_13,Active,0,9%
-u84,user14@test.com,217,SteamGame_14,Active,49.99,10%
-u63,user15@test.com,277,SteamGame_15,Active,0,70%
-u83,user16@test.com,288,SteamGame_16,Active,0,44%
-u47,user17@test.com,107,SteamGame_17,Active,49.99,43%
-u52,user18@test.com,460,SteamGame_18,Active,49.99,19%
-u32,user19@test.com,495,SteamGame_19,Active,19.99,91%
-u39,user20@test.com,192,SteamGame_20,Active,0,22%
-u39,user21@test.com,433,SteamGame_21,Active,49.99,59%
-u24,user22@test.com,412,SteamGame_22,Active,0,78%
-u40,user23@test.com,409,SteamGame_23,Active,19.99,72%
-u94,user24@test.com,478,SteamGame_24,Active,19.99,55%
-u52,user25@test.com,118,SteamGame_25,Active,49.99,60%
-u26,user26@test.com,154,SteamGame_26,Active,0,70%
-u87,user27@test.com,118,SteamGame_27,Active,19.99,57%
-u76,user28@test.com,231,SteamGame_28,Active,0,47%
-u58,user29@test.com,246,SteamGame_29,Active,19.99,96%
-u94,user30@test.com,383,SteamGame_30,Active,0,22%
-u54,user31@test.com,401,SteamGame_31,Active,19.99,26%
-u63,user32@test.com,352,SteamGame_32,Active,19.99,47%
-u43,user33@test.com,392,SteamGame_33,Active,49.99,85%
-u4,user34@test.com,139,SteamGame_34,Active,19.99,21%
-u66,user35@test.com,306,SteamGame_35,Active,49.99,99%
-u33,user36@test.com,372,SteamGame_36,Active,19.99,76%
-u99,user37@test.com,361,SteamGame_37,Active,0,92%
-u57,user38@test.com,345,SteamGame_38,Active,49.99,78%
-u80,user39@test.com,415,SteamGame_39,Active,19.99,26%
-u53,user40@test.com,109,SteamGame_40,Active,19.99,11%
-u41,user41@test.com,455,SteamGame_41,Active,49.99,18%
-u99,user42@test.com,162,SteamGame_42,Active,19.99,87%
-u11,user43@test.com,401,SteamGame_43,Active,19.99,35%
-u95,user44@test.com,208,SteamGame_44,Active,49.99,80%
-u83,user45@test.com,454,SteamGame_45,Active,49.99,48%
-u19,user46@test.com,128,SteamGame_46,Active,19.99,97%
-u7,user47@test.com,478,SteamGame_47,Active,0,22%
-u13,user48@test.com,146,SteamGame_48,Active,19.99,3%
-u48,user49@test.com,193,SteamGame_49,Active,49.99,47%
-u6,user50@test.com,372,SteamGame_50,Active,19.99,16%
-u27,user51@test.com,128,SteamGame_51,Active,49.99,69%
-u41,user52@test.com,214,SteamGame_52,Active,0,65%
-u22,user53@test.com,197,SteamGame_53,Active,49.99,70%
-u84,user54@test.com,405,SteamGame_54,Active,0,16%
-u23,user55@test.com,475,SteamGame_55,Active,0,29%
-u65,user56@test.com,182,SteamGame_56,Active,0,2%
-u12,user57@test.com,160,SteamGame_57,Active,19.99,51%
-u64,user58@test.com,244,SteamGame_58,Active,19.99,92%
-u91,user59@test.com,394,SteamGame_59,Active,49.99,51%
-u97,user60@test.com,214,SteamGame_60,Active,49.99,23%
-u82,user61@test.com,144,SteamGame_61,Active,19.99,83%
-u62,user62@test.com,341,SteamGame_62,Active,19.99,62%
-u89,user63@test.com,393,SteamGame_63,Active,49.99,99%
-u2,user64@test.com,361,SteamGame_64,Active,0,31%
-u12,user65@test.com,406,SteamGame_65,Active,49.99,98%
-u17,user66@test.com,237,SteamGame_66,Active,49.99,82%
-u99,user67@test.com,412,SteamGame_67,Active,49.99,73%
-u93,user68@test.com,266,SteamGame_68,Active,49.99,62%
-u87,user69@test.com,222,SteamGame_69,Active,0,61%
-u74,user70@test.com,453,SteamGame_70,Active,19.99,46%
-u50,user71@test.com,445,SteamGame_71,Active,49.99,63%
-u15,user72@test.com,383,SteamGame_72,Active,0,72%
-u47,user73@test.com,227,SteamGame_73,Active,0,80%
-u96,user74@test.com,379,SteamGame_74,Active,0,81%
-u9,user75@test.com,441,SteamGame_75,Active,49.99,40%
-u40,user76@test.com,258,SteamGame_76,Active,0,21%
-u73,user77@test.com,364,SteamGame_77,Active,49.99,70%
-u33,user78@test.com,437,SteamGame_78,Active,0,8%
-u71,user79@test.com,333,SteamGame_79,Active,49.99,43%
-u89,user80@test.com,186,SteamGame_80,Active,0,90%
-u98,user81@test.com,299,SteamGame_81,Active,0,98%
-u100,user82@test.com,388,SteamGame_82,Active,0,39%
-u3,user83@test.com,258,SteamGame_83,Active,0,13%
-u75,user84@test.com,170,SteamGame_84,Active,19.99,35%
-u4,user85@test.com,211,SteamGame_85,Active,49.99,59%
-u8,user86@test.com,344,SteamGame_86,Active,0,100%
-u35,user87@test.com,443,SteamGame_87,Active,19.99,29%
-u39,user88@test.com,469,SteamGame_88,Active,19.99,60%
-u20,user89@test.com,442,SteamGame_89,Active,0,48%
-u15,user90@test.com,266,SteamGame_90,Active,19.99,10%
-u84,user91@test.com,387,SteamGame_91,Active,19.99,70%
-u41,user92@test.com,372,SteamGame_92,Active,19.99,86%
-u66,user93@test.com,347,SteamGame_93,Active,0,36%
-u45,user94@test.com,168,SteamGame_94,Active,49.99,9%
-u95,user95@test.com,164,SteamGame_95,Active,49.99,56%
-u61,user96@test.com,109,SteamGame_96,Active,0,54%
-u2,user97@test.com,332,SteamGame_97,Active,49.99,48%
-u33,user98@test.com,442,SteamGame_98,Active,19.99,83%
-u40,user99@test.com,470,SteamGame_99,Active,19.99,73%
-u46,user100@test.com,410,SteamGame_100,Active,19.99,42%
-u86,user101@test.com,344,SteamGame_101,Active,49.99,9%
-u10,user102@test.com,451,SteamGame_102,Active,0,93%
-u30,user103@test.com,466,SteamGame_103,Active,0,30%
-u73,user104@test.com,107,SteamGame_104,Active,0,47%
-u84,user105@test.com,124,SteamGame_105,Active,49.99,25%
-u71,user106@test.com,412,SteamGame_106,Active,19.99,47%
-u21,user107@test.com,323,SteamGame_107,Active,0,29%
-u49,user108@test.com,258,SteamGame_108,Active,0,79%
-u68,user109@test.com,441,SteamGame_109,Active,0,22%
-u56,user110@test.com,146,SteamGame_110,Active,19.99,66%
-u52,user111@test.com,335,SteamGame_111,Active,49.99,63%
-u83,user112@test.com,257,SteamGame_112,Active,19.99,10%
-u91,user113@test.com,423,SteamGame_113,Active,19.99,40%
-u14,user114@test.com,297,SteamGame_114,Active,49.99,88%
-u75,user115@test.com,192,SteamGame_115,Active,49.99,100%
-u45,user116@test.com,158,SteamGame_116,Active,49.99,23%
-u4,user117@test.com,336,SteamGame_117,Active,0,5%
-u68,user118@test.com,385,SteamGame_118,Active,0,56%
-u65,user119@test.com,455,SteamGame_119,Active,0,37%
-u21,user120@test.com,238,SteamGame_120,Active,0,65%
-u33,user121@test.com,359,SteamGame_121,Active,0,72%
-u11,user122@test.com,347,SteamGame_122,Active,0,36%
-u45,user123@test.com,497,SteamGame_123,Active,0,15%
-u74,user124@test.com,267,SteamGame_124,Active,49.99,61%
-u60,user125@test.com,108,SteamGame_125,Active,0,95%
-u21,user126@test.com,149,SteamGame_126,Active,19.99,20%
-u29,user127@test.com,245,SteamGame_127,Active,19.99,12%
-u57,user128@test.com,291,SteamGame_128,Active,49.99,25%
-u24,user129@test.com,356,SteamGame_129,Active,19.99,38%
-u77,user130@test.com,255,SteamGame_130,Active,0,7%
-u70,user131@test.com,473,SteamGame_131,Active,49.99,84%
-u81,user132@test.com,466,SteamGame_132,Active,0,26%
-u27,user133@test.com,248,SteamGame_133,Active,49.99,19%
-u74,user134@test.com,433,SteamGame_134,Active,0,54%
-u48,user135@test.com,211,SteamGame_135,Active,49.99,49%
-u10,user136@test.com,236,SteamGame_136,Active,0,25%
-u74,user137@test.com,224,SteamGame_137,Active,0,41%
-u51,user138@test.com,347,SteamGame_138,Active,19.99,42%
-u11,user139@test.com,388,SteamGame_139,Active,49.99,10%
-u19,user140@test.com,466,SteamGame_140,Active,19.99,29%
-u90,user141@test.com,118,SteamGame_141,Active,19.99,12%
-u30,user142@test.com,286,SteamGame_142,Active,19.99,80%
-u32,user143@test.com,314,SteamGame_143,Active,19.99,34%
-u66,user144@test.com,373,SteamGame_144,Active,0,96%
-u94,user145@test.com,147,SteamGame_145,Active,19.99,79%
-u16,user146@test.com,457,SteamGame_146,Active,0,99%
-u30,user147@test.com,149,SteamGame_147,Active,0,80%
-u10,user148@test.com,470,SteamGame_148,Active,19.99,9%
-u98,user149@test.com,156,SteamGame_149,Active,19.99,89%
-u87,user150@test.com,134,SteamGame_150,Active,19.99,62%
-u49,user151@test.com,142,SteamGame_151,Active,19.99,5%
-u53,user152@test.com,405,SteamGame_152,Active,0,73%
-u99,user153@test.com,363,SteamGame_153,Active,19.99,47%
-u41,user154@test.com,174,SteamGame_154,Active,0,79%
-u17,user155@test.com,475,SteamGame_155,Active,49.99,36%
-u76,user156@test.com,391,SteamGame_156,Active,19.99,26%
-u59,user157@test.com,312,SteamGame_157,Active,19.99,75%
-u78,user158@test.com,383,SteamGame_158,Active,19.99,21%
-u42,user159@test.com,273,SteamGame_159,Active,0,7%
-u61,user160@test.com,408,SteamGame_160,Active,0,55%
-u41,user161@test.com,335,SteamGame_161,Active,49.99,14%
-u56,user162@test.com,484,SteamGame_162,Active,19.99,4%
-u78,user163@test.com,346,SteamGame_163,Active,19.99,24%
-u39,user164@test.com,257,SteamGame_164,Active,0,79%
-u94,user165@test.com,307,SteamGame_165,Active,19.99,62%
-u89,user166@test.com,293,SteamGame_166,Active,0,70%
-u16,user167@test.com,329,SteamGame_167,Active,19.99,15%
-u29,user168@test.com,311,SteamGame_168,Active,49.99,80%
-u67,user169@test.com,489,SteamGame_169,Active,19.99,86%
-u96,user170@test.com,142,SteamGame_170,Active,0,22%
-u32,user171@test.com,141,SteamGame_171,Active,0,52%
-u64,user172@test.com,458,SteamGame_172,Active,49.99,40%
-u3,user173@test.com,482,SteamGame_173,Active,19.99,93%
-u53,user174@test.com,167,SteamGame_174,Active,49.99,88%
-u63,user175@test.com,190,SteamGame_175,Active,19.99,97%
-u86,user176@test.com,277,SteamGame_176,Active,0,6%
-u22,user177@test.com,275,SteamGame_177,Active,0,22%
-u18,user178@test.com,100,SteamGame_178,Active,49.99,88%
-u8,user179@test.com,355,SteamGame_179,Active,0,74%
-u79,user180@test.com,319,SteamGame_180,Active,19.99,80%
-u41,user181@test.com,302,SteamGame_181,Active,19.99,11%
-u45,user182@test.com,336,SteamGame_182,Active,19.99,59%
-u58,user183@test.com,296,SteamGame_183,Active,0,35%
-u55,user184@test.com,125,SteamGame_184,Active,19.99,57%
-u77,user185@test.com,321,SteamGame_185,Active,19.99,56%
-u60,user186@test.com,179,SteamGame_186,Active,0,3%
-u17,user187@test.com,132,SteamGame_187,Active,49.99,59%
-u85,user188@test.com,399,SteamGame_188,Active,49.99,2%
-u35,user189@test.com,185,SteamGame_189,Active,0,85%
-u99,user190@test.com,136,SteamGame_190,Active,49.99,2%
-u9,user191@test.com,435,SteamGame_191,Active,49.99,44%
-u30,user192@test.com,316,SteamGame_192,Active,49.99,1%
-u81,user193@test.com,429,SteamGame_193,Active,49.99,28%
-u80,user194@test.com,125,SteamGame_194,Active,0,80%
-u94,user195@test.com,441,SteamGame_195,Active,49.99,77%
-u68,user196@test.com,125,SteamGame_196,Active,19.99,90%
-u31,user197@test.com,216,SteamGame_197,Active,0,47%
-u57,user198@test.com,428,SteamGame_198,Active,0,49%
-u27,user199@test.com,173,SteamGame_199,Active,19.99,25%
-u6,user200@test.com,434,SteamGame_200,Active,19.99,21%
-u11,user201@test.com,108,SteamGame_201,Active,0,43%
-u4,user202@test.com,125,SteamGame_202,Active,49.99,7%
-u29,user203@test.com,383,SteamGame_203,Active,0,64%
-u59,user204@test.com,161,SteamGame_204,Active,49.99,5%
-u43,user205@test.com,140,SteamGame_205,Active,19.99,76%
-u39,user206@test.com,174,SteamGame_206,Active,0,94%
-u81,user207@test.com,463,SteamGame_207,Active,49.99,56%
-u25,user208@test.com,489,SteamGame_208,Active,0,50%
-u83,user209@test.com,438,SteamGame_209,Active,49.99,38%
-u65,user210@test.com,219,SteamGame_210,Active,0,21%
-u98,user211@test.com,292,SteamGame_211,Active,0,18%
-u76,user212@test.com,188,SteamGame_212,Active,19.99,46%
-u83,user213@test.com,358,SteamGame_213,Active,49.99,88%
-u85,user214@test.com,318,SteamGame_214,Active,0,1%
-u12,user215@test.com,498,SteamGame_215,Active,49.99,88%
-u38,user216@test.com,382,SteamGame_216,Active,0,89%
-u50,user217@test.com,261,SteamGame_217,Active,0,32%
-u18,user218@test.com,413,SteamGame_218,Active,19.99,29%
-u60,user219@test.com,314,SteamGame_219,Active,0,22%
-u2,user220@test.com,107,SteamGame_220,Active,49.99,62%
-u80,user221@test.com,232,SteamGame_221,Active,19.99,92%
-u78,user222@test.com,393,SteamGame_222,Active,0,34%
-u28,user223@test.com,441,SteamGame_223,Active,0,47%
-u42,user224@test.com,131,SteamGame_224,Active,19.99,48%
-u13,user225@test.com,435,SteamGame_225,Active,19.99,30%
-u10,user226@test.com,479,SteamGame_226,Active,49.99,38%
-u57,user227@test.com,421,SteamGame_227,Active,49.99,1%
-u48,user228@test.com,409,SteamGame_228,Active,19.99,75%
-u20,user229@test.com,315,SteamGame_229,Active,0,54%
-u42,user230@test.com,142,SteamGame_230,Active,0,21%
-u44,user231@test.com,197,SteamGame_231,Active,49.99,69%
-u87,user232@test.com,345,SteamGame_232,Active,0,40%
-u87,user233@test.com,148,SteamGame_233,Active,0,20%
-u49,user234@test.com,213,SteamGame_234,Active,49.99,53%
-u84,user235@test.com,278,SteamGame_235,Active,19.99,33%
-u17,user236@test.com,380,SteamGame_236,Active,0,23%
-u97,user237@test.com,266,SteamGame_237,Active,0,9%
-u94,user238@test.com,373,SteamGame_238,Active,19.99,10%
-u47,user239@test.com,132,SteamGame_239,Active,19.99,88%
-u28,user240@test.com,344,SteamGame_240,Active,0,89%
-u31,user241@test.com,249,SteamGame_241,Active,0,8%
-u32,user242@test.com,133,SteamGame_242,Active,0,56%
-u48,user243@test.com,160,SteamGame_243,Active,49.99,58%
-u36,user244@test.com,482,SteamGame_244,Active,49.99,69%
-u14,user245@test.com,114,SteamGame_245,Active,49.99,69%
-u85,user246@test.com,471,SteamGame_246,Active,19.99,60%
-u96,user247@test.com,138,SteamGame_247,Active,49.99,3%
-u25,user248@test.com,139,SteamGame_248,Active,19.99,55%
-u93,user249@test.com,137,SteamGame_249,Active,19.99,8%
-u14,user250@test.com,294,SteamGame_250,Active,19.99,6%
-u56,user251@test.com,470,SteamGame_251,Active,0,45%
-u93,user252@test.com,408,SteamGame_252,Active,19.99,72%
-u13,user253@test.com,134,SteamGame_253,Active,19.99,43%
-u47,user254@test.com,138,SteamGame_254,Active,19.99,82%
-u79,user255@test.com,470,SteamGame_255,Active,0,77%
-u34,user256@test.com,397,SteamGame_256,Active,49.99,49%
-u31,user257@test.com,388,SteamGame_257,Active,49.99,61%
-u91,user258@test.com,435,SteamGame_258,Active,19.99,70%
-u92,user259@test.com,294,SteamGame_259,Active,0,40%
-u10,user260@test.com,458,SteamGame_260,Active,19.99,26%
-u26,user261@test.com,337,SteamGame_261,Active,0,64%
-u87,user262@test.com,415,SteamGame_262,Active,0,26%
-u23,user263@test.com,475,SteamGame_263,Active,19.99,84%
-u68,user264@test.com,472,SteamGame_264,Active,0,71%
-u3,user265@test.com,250,SteamGame_265,Active,49.99,23%
-u11,user266@test.com,391,SteamGame_266,Active,0,28%
-u100,user267@test.com,158,SteamGame_267,Active,0,25%
-u92,user268@test.com,410,SteamGame_268,Active,49.99,64%
-u41,user269@test.com,392,SteamGame_269,Active,0,57%
-u72,user270@test.com,307,SteamGame_270,Active,0,40%
-u76,user271@test.com,100,SteamGame_271,Active,19.99,63%
-u69,user272@test.com,251,SteamGame_272,Active,0,16%
-u34,user273@test.com,459,SteamGame_273,Active,19.99,39%
-u42,user274@test.com,468,SteamGame_274,Active,19.99,67%
-u95,user275@test.com,290,SteamGame_275,Active,49.99,2%
-u93,user276@test.com,365,SteamGame_276,Active,49.99,2%
-u67,user277@test.com,456,SteamGame_277,Active,0,44%
-u24,user278@test.com,463,SteamGame_278,Active,0,51%
-u41,user279@test.com,259,SteamGame_279,Active,19.99,40%
-u43,user280@test.com,405,SteamGame_280,Active,49.99,22%
-u21,user281@test.com,400,SteamGame_281,Active,19.99,17%
-u41,user282@test.com,345,SteamGame_282,Active,19.99,86%
-u75,user283@test.com,415,SteamGame_283,Active,49.99,30%
-u67,user284@test.com,362,SteamGame_284,Active,49.99,77%
-u26,user285@test.com,415,SteamGame_285,Active,49.99,70%
-u77,user286@test.com,417,SteamGame_286,Active,19.99,30%
-u99,user287@test.com,493,SteamGame_287,Active,19.99,55%
-u55,user288@test.com,435,SteamGame_288,Active,0,86%
-u23,user289@test.com,116,SteamGame_289,Active,49.99,45%
-u100,user290@test.com,263,SteamGame_290,Active,19.99,16%
-u56,user291@test.com,362,SteamGame_291,Active,19.99,59%
-u80,user292@test.com,271,SteamGame_292,Active,0,58%
-u19,user293@test.com,158,SteamGame_293,Active,49.99,4%
-u6,user294@test.com,352,SteamGame_294,Active,49.99,32%
-u46,user295@test.com,214,SteamGame_295,Active,0,85%
-u5,user296@test.com,248,SteamGame_296,Active,49.99,8%
-u12,user297@test.com,250,SteamGame_297,Active,49.99,59%
-u23,user298@test.com,443,SteamGame_298,Active,0,75%
-u26,user299@test.com,261,SteamGame_299,Active,49.99,33%
-u99,user300@test.com,250,SteamGame_300,Active,0,53%
-u38,user301@test.com,203,SteamGame_301,Active,19.99,93%
-u89,user302@test.com,483,SteamGame_302,Active,0,87%
-u68,user303@test.com,201,SteamGame_303,Active,19.99,17%
-u27,user304@test.com,344,SteamGame_304,Active,19.99,90%
-u61,user305@test.com,151,SteamGame_305,Active,19.99,37%
-u66,user306@test.com,126,SteamGame_306,Active,0,78%
-u27,user307@test.com,379,SteamGame_307,Active,49.99,81%
-u91,user308@test.com,423,SteamGame_308,Active,0,80%
-u49,user309@test.com,165,SteamGame_309,Active,49.99,59%
-u39,user310@test.com,138,SteamGame_310,Active,19.99,65%
-u81,user311@test.com,476,SteamGame_311,Active,19.99,35%
-u38,user312@test.com,113,SteamGame_312,Active,0,9%
-u66,user313@test.com,150,SteamGame_313,Active,19.99,59%
-u49,user314@test.com,441,SteamGame_314,Active,0,75%
-u30,user315@test.com,234,SteamGame_315,Active,0,26%
-u14,user316@test.com,405,SteamGame_316,Active,19.99,96%
-u29,user317@test.com,239,SteamGame_317,Active,0,5%
-u47,user318@test.com,163,SteamGame_318,Active,49.99,71%
-u21,user319@test.com,437,SteamGame_319,Active,0,97%
-u71,user320@test.com,466,SteamGame_320,Active,0,67%
-u7,user321@test.com,316,SteamGame_321,Active,49.99,11%
-u72,user322@test.com,114,SteamGame_322,Active,0,43%
-u78,user323@test.com,182,SteamGame_323,Active,19.99,13%
-u85,user324@test.com,482,SteamGame_324,Active,49.99,5%
-u65,user325@test.com,167,SteamGame_325,Active,19.99,35%
-u48,user326@test.com,490,SteamGame_326,Active,0,27%
-u51,user327@test.com,488,SteamGame_327,Active,19.99,23%
-u15,user328@test.com,391,SteamGame_328,Active,49.99,12%
-u34,user329@test.com,451,SteamGame_329,Active,19.99,17%
-u17,user330@test.com,365,SteamGame_330,Active,0,45%
-u84,user331@test.com,303,SteamGame_331,Active,19.99,24%
-u67,user332@test.com,450,SteamGame_332,Active,19.99,82%
-u40,user333@test.com,237,SteamGame_333,Active,49.99,7%
-u13,user334@test.com,339,SteamGame_334,Active,19.99,52%
-u19,user335@test.com,179,SteamGame_335,Active,19.99,38%
-u1,user336@test.com,469,SteamGame_336,Active,49.99,99%
-u20,user337@test.com,164,SteamGame_337,Active,49.99,25%
-u77,user338@test.com,259,SteamGame_338,Active,49.99,25%
-u24,user339@test.com,112,SteamGame_339,Active,19.99,87%
-u71,user340@test.com,103,SteamGame_340,Active,0,7%
-u70,user341@test.com,398,SteamGame_341,Active,49.99,52%
-u65,user342@test.com,224,SteamGame_342,Active,19.99,22%
-u2,user343@test.com,367,SteamGame_343,Active,49.99,49%
-u9,user344@test.com,257,SteamGame_344,Active,49.99,29%
-u45,user345@test.com,455,SteamGame_345,Active,0,32%
-u45,user346@test.com,442,SteamGame_346,Active,19.99,96%
-u100,user347@test.com,166,SteamGame_347,Active,19.99,26%
-u84,user348@test.com,401,SteamGame_348,Active,49.99,96%
-u12,user349@test.com,185,SteamGame_349,Active,0,18%
-u85,user350@test.com,218,SteamGame_350,Active,19.99,96%
-u79,user351@test.com,175,SteamGame_351,Active,0,96%
-u53,user352@test.com,265,SteamGame_352,Active,19.99,19%
-u55,user353@test.com,355,SteamGame_353,Active,0,36%
-u92,user354@test.com,142,SteamGame_354,Active,19.99,68%
-u71,user355@test.com,485,SteamGame_355,Active,19.99,78%
-u79,user356@test.com,474,SteamGame_356,Active,19.99,43%
-u22,user357@test.com,179,SteamGame_357,Active,49.99,4%
-u31,user358@test.com,404,SteamGame_358,Active,19.99,10%
-u94,user359@test.com,321,SteamGame_359,Active,19.99,8%
-u27,user360@test.com,336,SteamGame_360,Active,49.99,12%
-u64,user361@test.com,476,SteamGame_361,Active,0,18%
-u8,user362@test.com,487,SteamGame_362,Active,49.99,11%
-u21,user363@test.com,168,SteamGame_363,Active,49.99,17%
-u6,user364@test.com,323,SteamGame_364,Active,49.99,36%
-u40,user365@test.com,287,SteamGame_365,Active,0,76%
-u50,user366@test.com,258,SteamGame_366,Active,49.99,9%
-u53,user367@test.com,456,SteamGame_367,Active,49.99,44%
-u13,user368@test.com,329,SteamGame_368,Active,0,95%
-u60,user369@test.com,311,SteamGame_369,Active,19.99,94%
-u40,user370@test.com,175,SteamGame_370,Active,0,33%
-u39,user371@test.com,397,SteamGame_371,Active,0,59%
-u99,user372@test.com,309,SteamGame_372,Active,19.99,47%
-u38,user373@test.com,162,SteamGame_373,Active,49.99,49%
-u60,user374@test.com,426,SteamGame_374,Active,0,15%
-u12,user375@test.com,486,SteamGame_375,Active,49.99,18%
-u79,user376@test.com,118,SteamGame_376,Active,0,47%
-u95,user377@test.com,366,SteamGame_377,Active,49.99,73%
-u49,user378@test.com,169,SteamGame_378,Active,19.99,79%
-u29,user379@test.com,191,SteamGame_379,Active,49.99,63%
-u51,user380@test.com,354,SteamGame_380,Active,0,34%
-u89,user381@test.com,491,SteamGame_381,Active,49.99,53%
-u34,user382@test.com,401,SteamGame_382,Active,19.99,5%
-u3,user383@test.com,348,SteamGame_383,Active,19.99,1%
-u20,user384@test.com,165,SteamGame_384,Active,49.99,61%
-u9,user385@test.com,128,SteamGame_385,Active,49.99,88%
-u84,user386@test.com,382,SteamGame_386,Active,0,71%
-u87,user387@test.com,330,SteamGame_387,Active,49.99,80%
-u70,user388@test.com,223,SteamGame_388,Active,49.99,49%
-u26,user389@test.com,438,SteamGame_389,Active,49.99,40%
-u88,user390@test.com,213,SteamGame_390,Active,19.99,31%
-u96,user391@test.com,163,SteamGame_391,Active,19.99,68%
-u25,user392@test.com,380,SteamGame_392,Active,19.99,95%
-u58,user393@test.com,375,SteamGame_393,Active,0,66%
-u70,user394@test.com,125,SteamGame_394,Active,19.99,86%
-u13,user395@test.com,219,SteamGame_395,Active,0,18%
-u99,user396@test.com,310,SteamGame_396,Active,19.99,78%
-u24,user397@test.com,416,SteamGame_397,Active,0,63%
-u17,user398@test.com,244,SteamGame_398,Active,19.99,85%
-u90,user399@test.com,453,SteamGame_399,Active,19.99,46%
-u93,user400@test.com,453,SteamGame_400,Active,0,88%
-u30,user401@test.com,141,SteamGame_401,Active,49.99,61%
-u44,user402@test.com,212,SteamGame_402,Active,19.99,67%
-u71,user403@test.com,420,SteamGame_403,Active,19.99,95%
-u58,user404@test.com,372,SteamGame_404,Active,19.99,3%
-u82,user405@test.com,265,SteamGame_405,Active,49.99,35%
-u94,user406@test.com,212,SteamGame_406,Active,0,27%
-u81,user407@test.com,290,SteamGame_407,Active,19.99,84%
-u71,user408@test.com,380,SteamGame_408,Active,19.99,64%
-u26,user409@test.com,500,SteamGame_409,Active,0,58%
-u89,user410@test.com,420,SteamGame_410,Active,19.99,18%
-u7,user411@test.com,393,SteamGame_411,Active,0,66%
-u89,user412@test.com,138,SteamGame_412,Active,0,52%
-u36,user413@test.com,369,SteamGame_413,Active,19.99,11%
-u49,user414@test.com,238,SteamGame_414,Active,49.99,54%
-u83,user415@test.com,309,SteamGame_415,Active,49.99,40%
-u90,user416@test.com,216,SteamGame_416,Active,49.99,94%
-u87,user417@test.com,168,SteamGame_417,Active,0,74%
-u34,user418@test.com,309,SteamGame_418,Active,0,77%
-u33,user419@test.com,407,SteamGame_419,Active,49.99,87%
-u66,user420@test.com,391,SteamGame_420,Active,49.99,24%
-u58,user421@test.com,176,SteamGame_421,Active,19.99,43%
-u79,user422@test.com,316,SteamGame_422,Active,19.99,62%
-u28,user423@test.com,287,SteamGame_423,Active,49.99,16%
-u90,user424@test.com,119,SteamGame_424,Active,0,29%
-u8,user425@test.com,368,SteamGame_425,Active,49.99,39%
-u19,user426@test.com,148,SteamGame_426,Active,0,24%
-u4,user427@test.com,104,SteamGame_427,Active,0,36%
-u47,user428@test.com,183,SteamGame_428,Active,19.99,100%
-u90,user429@test.com,482,SteamGame_429,Active,49.99,83%
-u82,user430@test.com,354,SteamGame_430,Active,49.99,68%
-u45,user431@test.com,472,SteamGame_431,Active,19.99,97%
-u78,user432@test.com,484,SteamGame_432,Active,49.99,54%
-u14,user433@test.com,434,SteamGame_433,Active,49.99,27%
-u66,user434@test.com,243,SteamGame_434,Active,0,100%
-u84,user435@test.com,402,SteamGame_435,Active,19.99,88%
-u14,user436@test.com,127,SteamGame_436,Active,0,41%
-u86,user437@test.com,214,SteamGame_437,Active,19.99,18%
-u53,user438@test.com,496,SteamGame_438,Active,49.99,20%
-u90,user439@test.com,331,SteamGame_439,Active,19.99,80%
-u12,user440@test.com,495,SteamGame_440,Active,19.99,91%
-u20,user441@test.com,452,SteamGame_441,Active,0,46%
-u44,user442@test.com,494,SteamGame_442,Active,0,34%
-u2,user443@test.com,124,SteamGame_443,Active,19.99,30%
-u41,user444@test.com,432,SteamGame_444,Active,49.99,59%
-u28,user445@test.com,443,SteamGame_445,Active,19.99,16%
-u23,user446@test.com,169,SteamGame_446,Active,19.99,23%
-u85,user447@test.com,398,SteamGame_447,Active,19.99,88%
-u78,user448@test.com,197,SteamGame_448,Active,19.99,20%
-u6,user449@test.com,386,SteamGame_449,Active,0,67%
-u29,user450@test.com,113,SteamGame_450,Active,0,84%
-u11,user451@test.com,289,SteamGame_451,Active,19.99,57%
-u45,user452@test.com,185,SteamGame_452,Active,49.99,23%
-u66,user453@test.com,476,SteamGame_453,Active,0,37%
-u69,user454@test.com,114,SteamGame_454,Active,0,60%
-u75,user455@test.com,479,SteamGame_455,Active,19.99,28%
-u81,user456@test.com,463,SteamGame_456,Active,49.99,52%
-u93,user457@test.com,474,SteamGame_457,Active,49.99,76%
-u82,user458@test.com,481,SteamGame_458,Active,49.99,85%
-u35,user459@test.com,437,SteamGame_459,Active,19.99,72%
-u80,user460@test.com,423,SteamGame_460,Active,19.99,38%
-u19,user461@test.com,167,SteamGame_461,Active,0,63%
-u15,user462@test.com,184,SteamGame_462,Active,0,2%
-u65,user463@test.com,342,SteamGame_463,Active,49.99,37%
-u94,user464@test.com,424,SteamGame_464,Active,49.99,36%
-u99,user465@test.com,349,SteamGame_465,Active,0,25%
-u62,user466@test.com,193,SteamGame_466,Active,0,54%
-u35,user467@test.com,458,SteamGame_467,Active,0,94%
-u14,user468@test.com,364,SteamGame_468,Active,19.99,88%
-u87,user469@test.com,477,SteamGame_469,Active,49.99,90%
-u43,user470@test.com,385,SteamGame_470,Active,0,26%
-u97,user471@test.com,280,SteamGame_471,Active,0,6%
-u43,user472@test.com,213,SteamGame_472,Active,49.99,65%
-u26,user473@test.com,410,SteamGame_473,Active,49.99,70%
-u88,user474@test.com,197,SteamGame_474,Active,49.99,36%
-u57,user475@test.com,248,SteamGame_475,Active,49.99,87%
-u63,user476@test.com,230,SteamGame_476,Active,49.99,44%
-u27,user477@test.com,417,SteamGame_477,Active,19.99,25%
-u35,user478@test.com,401,SteamGame_478,Active,49.99,65%
-u89,user479@test.com,466,SteamGame_479,Active,49.99,72%
-u96,user480@test.com,235,SteamGame_480,Active,0,94%
-u23,user481@test.com,128,SteamGame_481,Active,19.99,1%
-u97,user482@test.com,372,SteamGame_482,Active,0,70%
-u32,user483@test.com,336,SteamGame_483,Active,19.99,19%
-u22,user484@test.com,378,SteamGame_484,Active,49.99,20%
-u2,user485@test.com,453,SteamGame_485,Active,19.99,98%
-u11,user486@test.com,141,SteamGame_486,Active,0,41%
-u42,user487@test.com,180,SteamGame_487,Active,19.99,23%
-u48,user488@test.com,437,SteamGame_488,Active,49.99,61%
-u14,user489@test.com,349,SteamGame_489,Active,0,35%
-u39,user490@test.com,406,SteamGame_490,Active,19.99,97%
-u85,user491@test.com,167,SteamGame_491,Active,19.99,45%
-u36,user492@test.com,193,SteamGame_492,Active,49.99,15%
-u35,user493@test.com,358,SteamGame_493,Active,49.99,68%
-u76,user494@test.com,471,SteamGame_494,Active,19.99,20%
-u50,user495@test.com,232,SteamGame_495,Active,49.99,22%
-u10,user496@test.com,125,SteamGame_496,Active,19.99,20%
-u34,user497@test.com,432,SteamGame_497,Active,49.99,98%
-u29,user498@test.com,391,SteamGame_498,Active,49.99,19%
-u30,user499@test.com,240,SteamGame_499,Active,49.99,29%
-u82,user500@test.com,347,SteamGame_500,Active,49.99,66%
-u5,user501@test.com,163,SteamGame_501,Active,0,97%
-u44,user502@test.com,353,SteamGame_502,Active,19.99,78%
-u51,user503@test.com,430,SteamGame_503,Active,0,2%
-u39,user504@test.com,419,SteamGame_504,Active,49.99,64%
-u86,user505@test.com,375,SteamGame_505,Active,49.99,54%
-u46,user506@test.com,333,SteamGame_506,Active,49.99,7%
-u38,user507@test.com,435,SteamGame_507,Active,19.99,1%
-u81,user508@test.com,109,SteamGame_508,Active,49.99,66%
-u85,user509@test.com,453,SteamGame_509,Active,0,56%
-u35,user510@test.com,427,SteamGame_510,Active,0,15%
-u39,user511@test.com,118,SteamGame_511,Active,0,43%
-u82,user512@test.com,119,SteamGame_512,Active,19.99,40%
-u55,user513@test.com,153,SteamGame_513,Active,0,99%
-u28,user514@test.com,492,SteamGame_514,Active,49.99,52%
-u32,user515@test.com,345,SteamGame_515,Active,0,52%
-u48,user516@test.com,187,SteamGame_516,Active,49.99,44%
-u94,user517@test.com,391,SteamGame_517,Active,0,66%
-u8,user518@test.com,273,SteamGame_518,Active,0,53%
-u49,user519@test.com,430,SteamGame_519,Active,0,98%
-u3,user520@test.com,442,SteamGame_520,Active,19.99,27%
-u8,user521@test.com,121,SteamGame_521,Active,19.99,34%
-u90,user522@test.com,279,SteamGame_522,Active,0,87%
-u99,user523@test.com,210,SteamGame_523,Active,49.99,53%
-u92,user524@test.com,210,SteamGame_524,Active,0,96%
-u62,user525@test.com,224,SteamGame_525,Active,0,30%
-u14,user526@test.com,337,SteamGame_526,Active,0,31%
-u41,user527@test.com,383,SteamGame_527,Active,0,41%
-u19,user528@test.com,181,SteamGame_528,Active,49.99,27%
-u19,user529@test.com,136,SteamGame_529,Active,49.99,13%
-u70,user530@test.com,412,SteamGame_530,Active,49.99,45%
-u10,user531@test.com,457,SteamGame_531,Active,0,41%
-u22,user532@test.com,309,SteamGame_532,Active,0,1%
-u18,user533@test.com,220,SteamGame_533,Active,19.99,58%
-u58,user534@test.com,208,SteamGame_534,Active,49.99,27%
-u40,user535@test.com,369,SteamGame_535,Active,0,78%
-u83,user536@test.com,239,SteamGame_536,Active,49.99,45%
-u65,user537@test.com,336,SteamGame_537,Active,0,42%
-u35,user538@test.com,120,SteamGame_538,Active,49.99,68%
-u80,user539@test.com,156,SteamGame_539,Active,49.99,23%
-u89,user540@test.com,462,SteamGame_540,Active,19.99,29%
-u48,user541@test.com,299,SteamGame_541,Active,49.99,76%
-u15,user542@test.com,368,SteamGame_542,Active,49.99,73%
-u27,user543@test.com,184,SteamGame_543,Active,0,28%
-u73,user544@test.com,393,SteamGame_544,Active,19.99,2%
-u14,user545@test.com,325,SteamGame_545,Active,0,37%
-u47,user546@test.com,187,SteamGame_546,Active,19.99,62%
-u64,user547@test.com,360,SteamGame_547,Active,19.99,72%
-u66,user548@test.com,141,SteamGame_548,Active,19.99,78%
-u82,user549@test.com,407,SteamGame_549,Active,19.99,75%
-u77,user550@test.com,343,SteamGame_550,Active,19.99,12%
-u79,user551@test.com,272,SteamGame_551,Active,49.99,24%
-u89,user552@test.com,318,SteamGame_552,Active,49.99,19%
-u61,user553@test.com,468,SteamGame_553,Active,0,79%
-u44,user554@test.com,422,SteamGame_554,Active,49.99,87%
-u55,user555@test.com,463,SteamGame_555,Active,0,21%
-u54,user556@test.com,372,SteamGame_556,Active,49.99,82%
-u76,user557@test.com,418,SteamGame_557,Active,49.99,99%
-u90,user558@test.com,378,SteamGame_558,Active,19.99,16%
-u12,user559@test.com,124,SteamGame_559,Active,19.99,30%
-u27,user560@test.com,109,SteamGame_560,Active,0,89%
-u15,user561@test.com,456,SteamGame_561,Active,19.99,14%
-u89,user562@test.com,169,SteamGame_562,Active,0,39%
-u48,user563@test.com,470,SteamGame_563,Active,0,70%
-u65,user564@test.com,114,SteamGame_564,Active,0,36%
-u61,user565@test.com,478,SteamGame_565,Active,0,1%
-u37,user566@test.com,493,SteamGame_566,Active,19.99,17%
-u88,user567@test.com,326,SteamGame_567,Active,0,9%
-u25,user568@test.com,346,SteamGame_568,Active,0,42%
-u43,user569@test.com,372,SteamGame_569,Active,49.99,81%
-u13,user570@test.com,168,SteamGame_570,Active,49.99,64%
-u100,user571@test.com,205,SteamGame_571,Active,49.99,27%
-u57,user572@test.com,482,SteamGame_572,Active,49.99,68%
-u34,user573@test.com,147,SteamGame_573,Active,49.99,22%
-u54,user574@test.com,252,SteamGame_574,Active,19.99,38%
-u41,user575@test.com,341,SteamGame_575,Active,49.99,30%
-u43,user576@test.com,397,SteamGame_576,Active,0,56%
-u51,user577@test.com,421,SteamGame_577,Active,0,27%
-u47,user578@test.com,428,SteamGame_578,Active,0,31%
-u42,user579@test.com,384,SteamGame_579,Active,49.99,85%
-u18,user580@test.com,350,SteamGame_580,Active,19.99,20%
-u64,user581@test.com,222,SteamGame_581,Active,49.99,5%
-u92,user582@test.com,212,SteamGame_582,Active,49.99,30%
-u20,user583@test.com,390,SteamGame_583,Active,0,83%
-u68,user584@test.com,211,SteamGame_584,Active,49.99,52%
-u64,user585@test.com,335,SteamGame_585,Active,19.99,39%
-u63,user586@test.com,404,SteamGame_586,Active,0,53%
-u21,user587@test.com,149,SteamGame_587,Active,49.99,57%
-u45,user588@test.com,176,SteamGame_588,Active,49.99,84%
-u24,user589@test.com,292,SteamGame_589,Active,0,40%
-u59,user590@test.com,237,SteamGame_590,Active,49.99,20%
-u44,user591@test.com,231,SteamGame_591,Active,0,66%
-u83,user592@test.com,346,SteamGame_592,Active,49.99,38%
-u68,user593@test.com,302,SteamGame_593,Active,0,90%
-u5,user594@test.com,134,SteamGame_594,Active,49.99,86%
-u32,user595@test.com,378,SteamGame_595,Active,0,83%
-u1,user596@test.com,107,SteamGame_596,Active,0,14%
-u2,user597@test.com,366,SteamGame_597,Active,0,37%
-u45,user598@test.com,418,SteamGame_598,Active,19.99,85%
-u19,user599@test.com,402,SteamGame_599,Active,49.99,2%
-u50,user600@test.com,181,SteamGame_600,Active,0,58%
-u35,user601@test.com,314,SteamGame_601,Active,49.99,50%
-u58,user602@test.com,296,SteamGame_602,Active,49.99,46%
-u13,user603@test.com,453,SteamGame_603,Active,19.99,43%
-u11,user604@test.com,158,SteamGame_604,Active,19.99,14%
-u25,user605@test.com,436,SteamGame_605,Active,0,79%
-u87,user606@test.com,487,SteamGame_606,Active,49.99,53%
-u13,user607@test.com,301,SteamGame_607,Active,0,90%
-u26,user608@test.com,190,SteamGame_608,Active,0,48%
-u2,user609@test.com,178,SteamGame_609,Active,49.99,70%
-u88,user610@test.com,229,SteamGame_610,Active,49.99,70%
-u63,user611@test.com,471,SteamGame_611,Active,0,68%
-u64,user612@test.com,345,SteamGame_612,Active,0,9%
-u5,user613@test.com,257,SteamGame_613,Active,49.99,28%
-u52,user614@test.com,120,SteamGame_614,Active,19.99,4%
-u36,user615@test.com,133,SteamGame_615,Active,0,86%
-u43,user616@test.com,285,SteamGame_616,Active,19.99,12%
-u3,user617@test.com,221,SteamGame_617,Active,49.99,1%
-u14,user618@test.com,106,SteamGame_618,Active,0,63%
-u2,user619@test.com,104,SteamGame_619,Active,49.99,34%
-u2,user620@test.com,253,SteamGame_620,Active,49.99,20%
-u63,user621@test.com,478,SteamGame_621,Active,0,42%
-u35,user622@test.com,354,SteamGame_622,Active,19.99,77%
-u71,user623@test.com,112,SteamGame_623,Active,0,49%
-u22,user624@test.com,132,SteamGame_624,Active,0,79%
-u11,user625@test.com,364,SteamGame_625,Active,0,56%
-u69,user626@test.com,493,SteamGame_626,Active,19.99,6%
-u86,user627@test.com,330,SteamGame_627,Active,49.99,25%
-u76,user628@test.com,186,SteamGame_628,Active,0,15%
-u66,user629@test.com,388,SteamGame_629,Active,49.99,31%
-u50,user630@test.com,131,SteamGame_630,Active,19.99,42%
-u61,user631@test.com,478,SteamGame_631,Active,0,70%
-u15,user632@test.com,292,SteamGame_632,Active,49.99,22%
-u66,user633@test.com,251,SteamGame_633,Active,0,5%
-u39,user634@test.com,295,SteamGame_634,Active,19.99,53%
-u38,user635@test.com,312,SteamGame_635,Active,0,7%
-u56,user636@test.com,441,SteamGame_636,Active,49.99,84%
-u96,user637@test.com,393,SteamGame_637,Active,49.99,3%
-u64,user638@test.com,178,SteamGame_638,Active,0,78%
-u22,user639@test.com,131,SteamGame_639,Active,49.99,27%
-u61,user640@test.com,180,SteamGame_640,Active,19.99,74%
-u22,user641@test.com,122,SteamGame_641,Active,0,25%
-u7,user642@test.com,312,SteamGame_642,Active,0,63%
-u96,user643@test.com,329,SteamGame_643,Active,49.99,26%
-u18,user644@test.com,399,SteamGame_644,Active,0,41%
-u98,user645@test.com,432,SteamGame_645,Active,0,79%
-u93,user646@test.com,459,SteamGame_646,Active,0,91%
-u47,user647@test.com,175,SteamGame_647,Active,19.99,27%
-u6,user648@test.com,141,SteamGame_648,Active,0,60%
-u74,user649@test.com,378,SteamGame_649,Active,49.99,59%
-u77,user650@test.com,106,SteamGame_650,Active,19.99,60%
-u15,user651@test.com,314,SteamGame_651,Active,19.99,90%
-u100,user652@test.com,166,SteamGame_652,Active,19.99,39%
-u36,user653@test.com,186,SteamGame_653,Active,49.99,23%
-u42,user654@test.com,168,SteamGame_654,Active,19.99,80%
-u86,user655@test.com,495,SteamGame_655,Active,19.99,47%
-u94,user656@test.com,139,SteamGame_656,Active,19.99,94%
-u57,user657@test.com,499,SteamGame_657,Active,49.99,40%
-u36,user658@test.com,268,SteamGame_658,Active,0,41%
-u99,user659@test.com,109,SteamGame_659,Active,0,7%
-u49,user660@test.com,123,SteamGame_660,Active,49.99,48%
-u1,user661@test.com,140,SteamGame_661,Active,19.99,7%
-u38,user662@test.com,356,SteamGame_662,Active,49.99,83%
-u94,user663@test.com,306,SteamGame_663,Active,0,17%
-u30,user664@test.com,147,SteamGame_664,Active,49.99,7%
-u59,user665@test.com,351,SteamGame_665,Active,0,42%
-u54,user666@test.com,292,SteamGame_666,Active,0,30%
-u14,user667@test.com,455,SteamGame_667,Active,19.99,98%
-u51,user668@test.com,371,SteamGame_668,Active,19.99,19%
-u47,user669@test.com,133,SteamGame_669,Active,0,39%
-u69,user670@test.com,361,SteamGame_670,Active,19.99,71%
-u77,user671@test.com,415,SteamGame_671,Active,0,73%
-u78,user672@test.com,137,SteamGame_672,Active,49.99,4%
-u48,user673@test.com,145,SteamGame_673,Active,19.99,32%
-u92,user674@test.com,451,SteamGame_674,Active,0,55%
-u38,user675@test.com,418,SteamGame_675,Active,19.99,15%
-u47,user676@test.com,345,SteamGame_676,Active,19.99,10%
-u30,user677@test.com,127,SteamGame_677,Active,49.99,90%
-u81,user678@test.com,339,SteamGame_678,Active,0,78%
-u93,user679@test.com,273,SteamGame_679,Active,0,59%
-u99,user680@test.com,123,SteamGame_680,Active,0,51%
-u10,user681@test.com,203,SteamGame_681,Active,0,65%
-u43,user682@test.com,318,SteamGame_682,Active,0,24%
-u2,user683@test.com,284,SteamGame_683,Active,19.99,85%
-u89,user684@test.com,174,SteamGame_684,Active,19.99,5%
-u38,user685@test.com,223,SteamGame_685,Active,0,98%
-u85,user686@test.com,334,SteamGame_686,Active,19.99,48%
-u5,user687@test.com,328,SteamGame_687,Active,0,37%
-u9,user688@test.com,394,SteamGame_688,Active,19.99,56%
-u67,user689@test.com,267,SteamGame_689,Active,0,95%
-u93,user690@test.com,475,SteamGame_690,Active,0,39%
-u93,user691@test.com,482,SteamGame_691,Active,0,71%
-u44,user692@test.com,117,SteamGame_692,Active,19.99,80%
-u33,user693@test.com,232,SteamGame_693,Active,49.99,28%
-u74,user694@test.com,488,SteamGame_694,Active,19.99,61%
-u68,user695@test.com,417,SteamGame_695,Active,19.99,89%
-u35,user696@test.com,161,SteamGame_696,Active,19.99,28%
-u85,user697@test.com,113,SteamGame_697,Active,49.99,91%
-u50,user698@test.com,327,SteamGame_698,Active,19.99,51%
-u11,user699@test.com,437,SteamGame_699,Active,19.99,23%
-u47,user700@test.com,408,SteamGame_700,Active,0,74%
-u83,user701@test.com,482,SteamGame_701,Active,49.99,39%
-u48,user702@test.com,184,SteamGame_702,Active,49.99,88%
-u48,user703@test.com,461,SteamGame_703,Active,0,35%
-u35,user704@test.com,236,SteamGame_704,Active,49.99,24%
-u70,user705@test.com,343,SteamGame_705,Active,0,46%
-u47,user706@test.com,424,SteamGame_706,Active,0,88%
-u85,user707@test.com,296,SteamGame_707,Active,19.99,6%
-u8,user708@test.com,135,SteamGame_708,Active,0,36%
-u94,user709@test.com,352,SteamGame_709,Active,0,85%
-u63,user710@test.com,237,SteamGame_710,Active,0,10%
-u7,user711@test.com,176,SteamGame_711,Active,0,3%
-u54,user712@test.com,257,SteamGame_712,Active,0,24%
-u93,user713@test.com,371,SteamGame_713,Active,19.99,65%
-u50,user714@test.com,212,SteamGame_714,Active,49.99,65%
-u65,user715@test.com,156,SteamGame_715,Active,0,79%
-u84,user716@test.com,284,SteamGame_716,Active,0,82%
-u90,user717@test.com,356,SteamGame_717,Active,19.99,38%
-u2,user718@test.com,400,SteamGame_718,Active,0,59%
-u21,user719@test.com,426,SteamGame_719,Active,0,52%
-u59,user720@test.com,362,SteamGame_720,Active,19.99,15%
-u9,user721@test.com,112,SteamGame_721,Active,19.99,99%
-u48,user722@test.com,174,SteamGame_722,Active,0,83%
-u12,user723@test.com,480,SteamGame_723,Active,0,64%
-u29,user724@test.com,497,SteamGame_724,Active,49.99,4%
-u32,user725@test.com,178,SteamGame_725,Active,19.99,66%
-u64,user726@test.com,285,SteamGame_726,Active,19.99,17%
-u98,user727@test.com,166,SteamGame_727,Active,19.99,74%
-u25,user728@test.com,328,SteamGame_728,Active,49.99,69%
-u43,user729@test.com,150,SteamGame_729,Active,0,78%
-u65,user730@test.com,435,SteamGame_730,Active,0,4%
-u12,user731@test.com,388,SteamGame_731,Active,19.99,6%
-u17,user732@test.com,401,SteamGame_732,Active,19.99,18%
-u74,user733@test.com,389,SteamGame_733,Active,0,95%
-u2,user734@test.com,111,SteamGame_734,Active,49.99,86%
-u45,user735@test.com,237,SteamGame_735,Active,49.99,43%
-u54,user736@test.com,296,SteamGame_736,Active,19.99,96%
-u29,user737@test.com,260,SteamGame_737,Active,49.99,83%
-u67,user738@test.com,298,SteamGame_738,Active,19.99,37%
-u22,user739@test.com,439,SteamGame_739,Active,0,34%
-u28,user740@test.com,415,SteamGame_740,Active,0,67%
-u44,user741@test.com,258,SteamGame_741,Active,49.99,52%
-u59,user742@test.com,168,SteamGame_742,Active,49.99,4%
-u27,user743@test.com,362,SteamGame_743,Active,19.99,36%
-u1,user744@test.com,318,SteamGame_744,Active,19.99,17%
-u97,user745@test.com,241,SteamGame_745,Active,19.99,6%
-u5,user746@test.com,388,SteamGame_746,Active,19.99,22%
-u48,user747@test.com,334,SteamGame_747,Active,49.99,80%
-u27,user748@test.com,197,SteamGame_748,Active,49.99,32%
-u37,user749@test.com,411,SteamGame_749,Active,0,5%
-u6,user750@test.com,474,SteamGame_750,Active,49.99,65%
-u31,user751@test.com,466,SteamGame_751,Active,49.99,85%
-u63,user752@test.com,338,SteamGame_752,Active,49.99,26%
-u21,user753@test.com,284,SteamGame_753,Active,0,31%
-u13,user754@test.com,269,SteamGame_754,Active,0,38%
-u64,user755@test.com,467,SteamGame_755,Active,19.99,77%
-u95,user756@test.com,483,SteamGame_756,Active,0,2%
-u89,user757@test.com,287,SteamGame_757,Active,0,65%
-u42,user758@test.com,238,SteamGame_758,Active,49.99,27%
-u35,user759@test.com,263,SteamGame_759,Active,0,90%
-u90,user760@test.com,322,SteamGame_760,Active,0,94%
-u49,user761@test.com,155,SteamGame_761,Active,49.99,94%
-u36,user762@test.com,413,SteamGame_762,Active,19.99,5%
-u46,user763@test.com,230,SteamGame_763,Active,19.99,5%
-u32,user764@test.com,443,SteamGame_764,Active,0,5%
-u51,user765@test.com,338,SteamGame_765,Active,19.99,46%
-u75,user766@test.com,271,SteamGame_766,Active,0,51%
-u96,user767@test.com,139,SteamGame_767,Active,49.99,23%
-u72,user768@test.com,463,SteamGame_768,Active,19.99,30%
-u49,user769@test.com,344,SteamGame_769,Active,0,47%
-u12,user770@test.com,144,SteamGame_770,Active,19.99,61%
-u62,user771@test.com,109,SteamGame_771,Active,49.99,42%
-u75,user772@test.com,228,SteamGame_772,Active,19.99,70%
-u61,user773@test.com,104,SteamGame_773,Active,0,92%
-u33,user774@test.com,191,SteamGame_774,Active,19.99,5%
-u45,user775@test.com,172,SteamGame_775,Active,19.99,13%
-u98,user776@test.com,131,SteamGame_776,Active,49.99,27%
-u12,user777@test.com,181,SteamGame_777,Active,0,28%
-u99,user778@test.com,379,SteamGame_778,Active,49.99,84%
-u26,user779@test.com,489,SteamGame_779,Active,19.99,36%
-u71,user780@test.com,308,SteamGame_780,Active,19.99,33%
-u89,user781@test.com,415,SteamGame_781,Active,49.99,20%
-u67,user782@test.com,244,SteamGame_782,Active,49.99,58%
-u72,user783@test.com,338,SteamGame_783,Active,49.99,9%
-u87,user784@test.com,239,SteamGame_784,Active,19.99,33%
-u56,user785@test.com,486,SteamGame_785,Active,49.99,69%
-u87,user786@test.com,500,SteamGame_786,Active,0,95%
-u19,user787@test.com,104,SteamGame_787,Active,19.99,92%
-u50,user788@test.com,285,SteamGame_788,Active,0,57%
-u22,user789@test.com,362,SteamGame_789,Active,19.99,36%
-u50,user790@test.com,315,SteamGame_790,Active,0,45%
-u62,user791@test.com,479,SteamGame_791,Active,19.99,74%
-u5,user792@test.com,145,SteamGame_792,Active,19.99,4%
-u36,user793@test.com,264,SteamGame_793,Active,19.99,15%
-u54,user794@test.com,274,SteamGame_794,Active,19.99,52%
-u38,user795@test.com,357,SteamGame_795,Active,19.99,64%
-u15,user796@test.com,102,SteamGame_796,Active,0,57%
-u54,user797@test.com,338,SteamGame_797,Active,49.99,12%
-u77,user798@test.com,133,SteamGame_798,Active,49.99,3%
-u44,user799@test.com,133,SteamGame_799,Active,49.99,100%
-u83,user800@test.com,323,SteamGame_800,Active,0,77%
-u53,user801@test.com,301,SteamGame_801,Active,19.99,71%
-u89,user802@test.com,263,SteamGame_802,Active,49.99,54%
-u29,user803@test.com,421,SteamGame_803,Active,0,86%
-u41,user804@test.com,445,SteamGame_804,Active,19.99,45%
-u66,user805@test.com,475,SteamGame_805,Active,0,64%
-u24,user806@test.com,136,SteamGame_806,Active,0,70%
-u49,user807@test.com,386,SteamGame_807,Active,19.99,87%
-u57,user808@test.com,212,SteamGame_808,Active,0,84%
-u80,user809@test.com,185,SteamGame_809,Active,49.99,7%
-u85,user810@test.com,302,SteamGame_810,Active,49.99,89%
-u95,user811@test.com,112,SteamGame_811,Active,49.99,79%
-u51,user812@test.com,385,SteamGame_812,Active,0,99%
-u64,user813@test.com,478,SteamGame_813,Active,49.99,84%
-u58,user814@test.com,451,SteamGame_814,Active,0,47%
-u46,user815@test.com,358,SteamGame_815,Active,49.99,29%
-u87,user816@test.com,439,SteamGame_816,Active,0,80%
-u43,user817@test.com,225,SteamGame_817,Active,19.99,91%
-u20,user818@test.com,370,SteamGame_818,Active,49.99,83%
-u53,user819@test.com,355,SteamGame_819,Active,19.99,79%
-u5,user820@test.com,422,SteamGame_820,Active,49.99,54%
-u92,user821@test.com,409,SteamGame_821,Active,19.99,85%
-u39,user822@test.com,350,SteamGame_822,Active,49.99,13%
-u38,user823@test.com,252,SteamGame_823,Active,49.99,54%
-u20,user824@test.com,210,SteamGame_824,Active,49.99,36%
-u68,user825@test.com,106,SteamGame_825,Active,19.99,2%
-u91,user826@test.com,458,SteamGame_826,Active,49.99,37%
-u78,user827@test.com,400,SteamGame_827,Active,49.99,16%
-u22,user828@test.com,478,SteamGame_828,Active,0,20%
-u99,user829@test.com,428,SteamGame_829,Active,49.99,96%
-u55,user830@test.com,255,SteamGame_830,Active,0,2%
-u61,user831@test.com,272,SteamGame_831,Active,19.99,19%
-u19,user832@test.com,351,SteamGame_832,Active,0,1%
-u49,user833@test.com,118,SteamGame_833,Active,49.99,96%
-u7,user834@test.com,152,SteamGame_834,Active,19.99,41%
-u2,user835@test.com,244,SteamGame_835,Active,49.99,32%
-u35,user836@test.com,198,SteamGame_836,Active,19.99,69%
-u81,user837@test.com,373,SteamGame_837,Active,19.99,42%
-u93,user838@test.com,237,SteamGame_838,Active,49.99,98%
-u73,user839@test.com,155,SteamGame_839,Active,0,40%
-u68,user840@test.com,373,SteamGame_840,Active,49.99,26%
-u45,user841@test.com,454,SteamGame_841,Active,49.99,20%
-u63,user842@test.com,295,SteamGame_842,Active,19.99,9%
-u39,user843@test.com,187,SteamGame_843,Active,0,82%
-u17,user844@test.com,360,SteamGame_844,Active,19.99,53%
-u15,user845@test.com,129,SteamGame_845,Active,49.99,22%
-u85,user846@test.com,294,SteamGame_846,Active,0,74%
-u84,user847@test.com,111,SteamGame_847,Active,19.99,67%
-u58,user848@test.com,252,SteamGame_848,Active,0,50%
-u65,user849@test.com,329,SteamGame_849,Active,0,26%
-u67,user850@test.com,439,SteamGame_850,Active,19.99,81%
-u63,user851@test.com,444,SteamGame_851,Active,49.99,23%
-u21,user852@test.com,464,SteamGame_852,Active,0,9%
-u9,user853@test.com,357,SteamGame_853,Active,19.99,3%
-u91,user854@test.com,181,SteamGame_854,Active,49.99,96%
-u51,user855@test.com,152,SteamGame_855,Active,19.99,81%
-u27,user856@test.com,169,SteamGame_856,Active,19.99,2%
-u19,user857@test.com,499,SteamGame_857,Active,19.99,58%
-u45,user858@test.com,336,SteamGame_858,Active,0,49%
-u37,user859@test.com,495,SteamGame_859,Active,19.99,29%
-u68,user860@test.com,269,SteamGame_860,Active,19.99,81%
-u8,user861@test.com,211,SteamGame_861,Active,49.99,59%
-u85,user862@test.com,340,SteamGame_862,Active,19.99,61%
-u41,user863@test.com,155,SteamGame_863,Active,49.99,44%
-u7,user864@test.com,242,SteamGame_864,Active,0,8%
-u54,user865@test.com,153,SteamGame_865,Active,19.99,41%
-u7,user866@test.com,283,SteamGame_866,Active,49.99,92%
-u39,user867@test.com,323,SteamGame_867,Active,0,100%
-u37,user868@test.com,277,SteamGame_868,Active,49.99,10%
-u93,user869@test.com,113,SteamGame_869,Active,19.99,42%
-u99,user870@test.com,360,SteamGame_870,Active,0,90%
-u17,user871@test.com,453,SteamGame_871,Active,19.99,43%
-u61,user872@test.com,272,SteamGame_872,Active,19.99,92%
-u16,user873@test.com,403,SteamGame_873,Active,49.99,18%
-u16,user874@test.com,118,SteamGame_874,Active,19.99,56%
-u10,user875@test.com,143,SteamGame_875,Active,19.99,14%
-u84,user876@test.com,161,SteamGame_876,Active,49.99,88%
-u56,user877@test.com,442,SteamGame_877,Active,19.99,24%
-u73,user878@test.com,401,SteamGame_878,Active,19.99,72%
-u36,user879@test.com,413,SteamGame_879,Active,49.99,17%
-u36,user880@test.com,394,SteamGame_880,Active,49.99,99%
-u70,user881@test.com,478,SteamGame_881,Active,49.99,80%
-u21,user882@test.com,478,SteamGame_882,Active,0,80%
-u83,user883@test.com,227,SteamGame_883,Active,19.99,77%
-u62,user884@test.com,459,SteamGame_884,Active,19.99,77%
-u32,user885@test.com,132,SteamGame_885,Active,0,81%
-u7,user886@test.com,350,SteamGame_886,Active,49.99,75%
-u83,user887@test.com,120,SteamGame_887,Active,19.99,44%
-u62,user888@test.com,347,SteamGame_888,Active,49.99,100%
-u53,user889@test.com,109,SteamGame_889,Active,19.99,80%
-u22,user890@test.com,333,SteamGame_890,Active,19.99,7%
-u30,user891@test.com,233,SteamGame_891,Active,19.99,77%
-u77,user892@test.com,390,SteamGame_892,Active,49.99,38%
-u6,user893@test.com,270,SteamGame_893,Active,19.99,42%
-u58,user894@test.com,335,SteamGame_894,Active,0,33%
-u80,user895@test.com,343,SteamGame_895,Active,49.99,77%
-u63,user896@test.com,254,SteamGame_896,Active,19.99,50%
-u83,user897@test.com,477,SteamGame_897,Active,0,36%
-u30,user898@test.com,423,SteamGame_898,Active,19.99,88%
-u99,user899@test.com,422,SteamGame_899,Active,19.99,11%
-u4,user900@test.com,371,SteamGame_900,Active,0,55%
-u40,user901@test.com,355,SteamGame_901,Active,19.99,11%
-u4,user902@test.com,128,SteamGame_902,Active,19.99,13%
-u28,user903@test.com,179,SteamGame_903,Active,49.99,47%
-u54,user904@test.com,363,SteamGame_904,Active,19.99,66%
-u44,user905@test.com,212,SteamGame_905,Active,19.99,15%
-u50,user906@test.com,127,SteamGame_906,Active,0,98%
-u45,user907@test.com,178,SteamGame_907,Active,0,45%
-u33,user908@test.com,111,SteamGame_908,Active,49.99,57%
-u48,user909@test.com,390,SteamGame_909,Active,0,42%
-u98,user910@test.com,476,SteamGame_910,Active,19.99,85%
-u93,user911@test.com,117,SteamGame_911,Active,19.99,86%
-u2,user912@test.com,335,SteamGame_912,Active,49.99,45%
-u59,user913@test.com,196,SteamGame_913,Active,0,31%
-u55,user914@test.com,280,SteamGame_914,Active,19.99,89%
-u6,user915@test.com,233,SteamGame_915,Active,0,100%
-u40,user916@test.com,470,SteamGame_916,Active,49.99,92%
-u72,user917@test.com,110,SteamGame_917,Active,49.99,97%
-u22,user918@test.com,330,SteamGame_918,Active,0,69%
-u22,user919@test.com,373,SteamGame_919,Active,49.99,59%
-u22,user920@test.com,201,SteamGame_920,Active,19.99,71%
-u45,user921@test.com,491,SteamGame_921,Active,19.99,96%
-u60,user922@test.com,376,SteamGame_922,Active,19.99,88%
-u89,user923@test.com,464,SteamGame_923,Active,49.99,86%
-u52,user924@test.com,128,SteamGame_924,Active,19.99,11%
-u18,user925@test.com,302,SteamGame_925,Active,0,85%
-u64,user926@test.com,230,SteamGame_926,Active,49.99,28%
-u99,user927@test.com,254,SteamGame_927,Active,19.99,27%
-u84,user928@test.com,304,SteamGame_928,Active,0,46%
-u72,user929@test.com,336,SteamGame_929,Active,49.99,9%
-u49,user930@test.com,312,SteamGame_930,Active,0,99%
-u49,user931@test.com,305,SteamGame_931,Active,19.99,66%
-u25,user932@test.com,357,SteamGame_932,Active,19.99,4%
-u44,user933@test.com,328,SteamGame_933,Active,49.99,48%
-u2,user934@test.com,451,SteamGame_934,Active,0,93%
-u47,user935@test.com,406,SteamGame_935,Active,19.99,83%
-u17,user936@test.com,324,SteamGame_936,Active,19.99,38%
-u19,user937@test.com,158,SteamGame_937,Active,0,30%
-u78,user938@test.com,433,SteamGame_938,Active,49.99,23%
-u32,user939@test.com,259,SteamGame_939,Active,19.99,40%
-u41,user940@test.com,314,SteamGame_940,Active,19.99,66%
-u11,user941@test.com,268,SteamGame_941,Active,49.99,33%
-u38,user942@test.com,357,SteamGame_942,Active,0,54%
-u93,user943@test.com,290,SteamGame_943,Active,0,54%
-u82,user944@test.com,100,SteamGame_944,Active,49.99,7%
-u55,user945@test.com,453,SteamGame_945,Active,19.99,56%
-u63,user946@test.com,405,SteamGame_946,Active,0,83%
-u49,user947@test.com,101,SteamGame_947,Active,49.99,99%
-u61,user948@test.com,126,SteamGame_948,Active,49.99,43%
-u33,user949@test.com,329,SteamGame_949,Active,0,91%
-u20,user950@test.com,346,SteamGame_950,Active,19.99,40%
-u69,user951@test.com,387,SteamGame_951,Active,49.99,20%
-u33,user952@test.com,214,SteamGame_952,Active,49.99,29%
-u57,user953@test.com,371,SteamGame_953,Active,49.99,100%
-u27,user954@test.com,439,SteamGame_954,Active,0,96%
-u53,user955@test.com,174,SteamGame_955,Active,19.99,19%
-u89,user956@test.com,500,SteamGame_956,Active,0,61%
-u79,user957@test.com,298,SteamGame_957,Active,49.99,15%
-u16,user958@test.com,194,SteamGame_958,Active,49.99,26%
-u35,user959@test.com,280,SteamGame_959,Active,19.99,16%
-u39,user960@test.com,349,SteamGame_960,Active,0,12%
-u25,user961@test.com,144,SteamGame_961,Active,49.99,96%
-u60,user962@test.com,334,SteamGame_962,Active,19.99,69%
-u79,user963@test.com,118,SteamGame_963,Active,49.99,76%
-u23,user964@test.com,473,SteamGame_964,Active,19.99,70%
-u72,user965@test.com,474,SteamGame_965,Active,19.99,52%
-u29,user966@test.com,431,SteamGame_966,Active,49.99,76%
-u4,user967@test.com,189,SteamGame_967,Active,19.99,74%
-u61,user968@test.com,130,SteamGame_968,Active,49.99,97%
-u88,user969@test.com,117,SteamGame_969,Active,19.99,91%
-u32,user970@test.com,136,SteamGame_970,Active,49.99,43%
-u40,user971@test.com,427,SteamGame_971,Active,0,13%
-u54,user972@test.com,467,SteamGame_972,Active,19.99,97%
-u100,user973@test.com,311,SteamGame_973,Active,49.99,45%
-u96,user974@test.com,459,SteamGame_974,Active,0,58%
-u57,user975@test.com,435,SteamGame_975,Active,0,79%
-u78,user976@test.com,233,SteamGame_976,Active,49.99,67%
-u67,user977@test.com,354,SteamGame_977,Active,19.99,20%
-u4,user978@test.com,274,SteamGame_978,Active,19.99,9%
-u71,user979@test.com,176,SteamGame_979,Active,19.99,53%
-u24,user980@test.com,410,SteamGame_980,Active,0,63%
-u92,user981@test.com,204,SteamGame_981,Active,49.99,68%
-u55,user982@test.com,145,SteamGame_982,Active,0,56%
-u29,user983@test.com,306,SteamGame_983,Active,19.99,42%
-u54,user984@test.com,388,SteamGame_984,Active,49.99,68%
-u3,user985@test.com,215,SteamGame_985,Active,19.99,42%
-u40,user986@test.com,301,SteamGame_986,Active,19.99,83%
-u55,user987@test.com,201,SteamGame_987,Active,19.99,18%
-u100,user988@test.com,320,SteamGame_988,Active,0,64%
-u52,user989@test.com,481,SteamGame_989,Active,49.99,1%
-u6,user990@test.com,208,SteamGame_990,Active,49.99,53%
-u60,user991@test.com,313,SteamGame_991,Active,0,75%
-u97,user992@test.com,280,SteamGame_992,Active,0,2%
-u45,user993@test.com,459,SteamGame_993,Active,19.99,95%
-u29,user994@test.com,478,SteamGame_994,Active,49.99,35%
-u24,user995@test.com,189,SteamGame_995,Active,49.99,48%
-u95,user996@test.com,401,SteamGame_996,Active,0,59%
-u19,user997@test.com,234,SteamGame_997,Active,49.99,32%
-u50,user998@test.com,199,SteamGame_998,Active,0,32%
-u73,user999@test.com,146,SteamGame_999,Active,0,17%
-u27,user1000@test.com,356,SteamGame_1000,Active,19.99,39%
+user_unique_1,player_1@steam.ua,40001,Game Vol.1,Installed,0.0,6%
+user_unique_2,player_2@steam.ua,40002,Game Vol.2,Installed,29.5,87%
+user_unique_3,player_3@steam.ua,40003,Game Vol.3,In Library,0.0,24%
+user_unique_4,player_4@steam.ua,40004,Game Vol.4,In Library,0.0,25%
+user_unique_5,player_5@steam.ua,40005,Game Vol.5,In Library,29.5,82%
+user_unique_6,player_6@steam.ua,40006,Game Vol.6,In Library,9.99,69%
+user_unique_7,player_7@steam.ua,40007,Game Vol.7,In Library,29.5,79%
+user_unique_8,player_8@steam.ua,40008,Game Vol.8,Running,59.99,99%
+user_unique_9,player_9@steam.ua,40009,Game Vol.9,Running,9.99,29%
+user_unique_10,player_10@steam.ua,40010,Game Vol.10,Running,0.0,71%
+user_unique_11,player_11@steam.ua,40011,Game Vol.11,Running,0.0,1%
+user_unique_12,player_12@steam.ua,40012,Game Vol.12,In Library,0.0,87%
+user_unique_13,player_13@steam.ua,40013,Game Vol.13,In Library,0.0,99%
+user_unique_14,player_14@steam.ua,40014,Game Vol.14,In Library,19.99,63%
+user_unique_15,player_15@steam.ua,40015,Game Vol.15,Installed,29.5,21%
+user_unique_16,player_16@steam.ua,40016,Game Vol.16,Installed,9.99,93%
+user_unique_17,player_17@steam.ua,40017,Game Vol.17,Installed,9.99,22%
+user_unique_18,player_18@steam.ua,40018,Game Vol.18,In Library,9.99,17%
+user_unique_19,player_19@steam.ua,40019,Game Vol.19,Running,29.5,31%
+user_unique_20,player_20@steam.ua,40020,Game Vol.20,Installed,9.99,62%
+user_unique_21,player_21@steam.ua,40021,Game Vol.21,In Library,9.99,37%
+user_unique_22,player_22@steam.ua,40022,Game Vol.22,In Library,9.99,92%
+user_unique_23,player_23@steam.ua,40023,Game Vol.23,Installed,19.99,73%
+user_unique_24,player_24@steam.ua,40024,Game Vol.24,Running,9.99,34%
+user_unique_25,player_25@steam.ua,40025,Game Vol.25,Installed,19.99,37%
+user_unique_26,player_26@steam.ua,40026,Game Vol.26,Installed,0.0,36%
+user_unique_27,player_27@steam.ua,40027,Game Vol.27,Installed,59.99,6%
+user_unique_28,player_28@steam.ua,40028,Game Vol.28,Running,59.99,86%
+user_unique_29,player_29@steam.ua,40029,Game Vol.29,Installed,0.0,9%
+user_unique_30,player_30@steam.ua,40030,Game Vol.30,In Library,59.99,57%
+user_unique_31,player_31@steam.ua,40031,Game Vol.31,In Library,29.5,58%
+user_unique_32,player_32@steam.ua,40032,Game Vol.32,In Library,29.5,58%
+user_unique_33,player_33@steam.ua,40033,Game Vol.33,Installed,19.99,72%
+user_unique_34,player_34@steam.ua,40034,Game Vol.34,Installed,0.0,8%
+user_unique_35,player_35@steam.ua,40035,Game Vol.35,Installed,0.0,0%
+user_unique_36,player_36@steam.ua,40036,Game Vol.36,Running,9.99,74%
+user_unique_37,player_37@steam.ua,40037,Game Vol.37,In Library,29.5,37%
+user_unique_38,player_38@steam.ua,40038,Game Vol.38,Running,19.99,28%
+user_unique_39,player_39@steam.ua,40039,Game Vol.39,Running,29.5,74%
+user_unique_40,player_40@steam.ua,40040,Game Vol.40,Installed,59.99,35%
+user_unique_41,player_41@steam.ua,40041,Game Vol.41,Installed,19.99,71%
+user_unique_42,player_42@steam.ua,40042,Game Vol.42,Running,9.99,9%
+user_unique_43,player_43@steam.ua,40043,Game Vol.43,Running,59.99,44%
+user_unique_44,player_44@steam.ua,40044,Game Vol.44,Installed,29.5,52%
+user_unique_45,player_45@steam.ua,40045,Game Vol.45,Installed,9.99,58%
+user_unique_46,player_46@steam.ua,40046,Game Vol.46,Installed,9.99,28%
+user_unique_47,player_47@steam.ua,40047,Game Vol.47,In Library,0.0,59%
+user_unique_48,player_48@steam.ua,40048,Game Vol.48,Running,0.0,70%
+user_unique_49,player_49@steam.ua,40049,Game Vol.49,Installed,0.0,100%
+user_unique_50,player_50@steam.ua,40050,Game Vol.50,In Library,19.99,71%
+user_unique_51,player_51@steam.ua,40051,Game Vol.51,In Library,19.99,4%
+user_unique_52,player_52@steam.ua,40052,Game Vol.52,Running,0.0,97%
+user_unique_53,player_53@steam.ua,40053,Game Vol.53,Installed,19.99,22%
+user_unique_54,player_54@steam.ua,40054,Game Vol.54,Running,0.0,39%
+user_unique_55,player_55@steam.ua,40055,Game Vol.55,In Library,29.5,97%
+user_unique_56,player_56@steam.ua,40056,Game Vol.56,Installed,19.99,36%
+user_unique_57,player_57@steam.ua,40057,Game Vol.57,Running,0.0,46%
+user_unique_58,player_58@steam.ua,40058,Game Vol.58,Installed,29.5,65%
+user_unique_59,player_59@steam.ua,40059,Game Vol.59,In Library,9.99,30%
+user_unique_60,player_60@steam.ua,40060,Game Vol.60,In Library,0.0,97%
+user_unique_61,player_61@steam.ua,40061,Game Vol.61,Running,19.99,67%
+user_unique_62,player_62@steam.ua,40062,Game Vol.62,In Library,59.99,30%
+user_unique_63,player_63@steam.ua,40063,Game Vol.63,Running,29.5,96%
+user_unique_64,player_64@steam.ua,40064,Game Vol.64,Running,9.99,17%
+user_unique_65,player_65@steam.ua,40065,Game Vol.65,Running,9.99,4%
+user_unique_66,player_66@steam.ua,40066,Game Vol.66,Running,29.5,66%
+user_unique_67,player_67@steam.ua,40067,Game Vol.67,Installed,19.99,16%
+user_unique_68,player_68@steam.ua,40068,Game Vol.68,Running,29.5,76%
+user_unique_69,player_69@steam.ua,40069,Game Vol.69,Installed,59.99,24%
+user_unique_70,player_70@steam.ua,40070,Game Vol.70,Installed,9.99,14%
+user_unique_71,player_71@steam.ua,40071,Game Vol.71,Running,59.99,28%
+user_unique_72,player_72@steam.ua,40072,Game Vol.72,Installed,9.99,70%
+user_unique_73,player_73@steam.ua,40073,Game Vol.73,Running,29.5,99%
+user_unique_74,player_74@steam.ua,40074,Game Vol.74,Running,59.99,11%
+user_unique_75,player_75@steam.ua,40075,Game Vol.75,Running,0.0,31%
+user_unique_76,player_76@steam.ua,40076,Game Vol.76,Running,9.99,90%
+user_unique_77,player_77@steam.ua,40077,Game Vol.77,Installed,29.5,18%
+user_unique_78,player_78@steam.ua,40078,Game Vol.78,Running,9.99,52%
+user_unique_79,player_79@steam.ua,40079,Game Vol.79,Installed,0.0,23%
+user_unique_80,player_80@steam.ua,40080,Game Vol.80,Running,0.0,73%
+user_unique_81,player_81@steam.ua,40081,Game Vol.81,Installed,59.99,28%
+user_unique_82,player_82@steam.ua,40082,Game Vol.82,Running,29.5,63%
+user_unique_83,player_83@steam.ua,40083,Game Vol.83,In Library,59.99,6%
+user_unique_84,player_84@steam.ua,40084,Game Vol.84,In Library,0.0,7%
+user_unique_85,player_85@steam.ua,40085,Game Vol.85,Installed,29.5,57%
+user_unique_86,player_86@steam.ua,40086,Game Vol.86,In Library,9.99,77%
+user_unique_87,player_87@steam.ua,40087,Game Vol.87,Installed,59.99,25%
+user_unique_88,player_88@steam.ua,40088,Game Vol.88,Running,0.0,91%
+user_unique_89,player_89@steam.ua,40089,Game Vol.89,In Library,9.99,32%
+user_unique_90,player_90@steam.ua,40090,Game Vol.90,Running,0.0,48%
+user_unique_91,player_91@steam.ua,40091,Game Vol.91,In Library,0.0,80%
+user_unique_92,player_92@steam.ua,40092,Game Vol.92,Running,59.99,78%
+user_unique_93,player_93@steam.ua,40093,Game Vol.93,Running,59.99,26%
+user_unique_94,player_94@steam.ua,40094,Game Vol.94,Installed,0.0,0%
+user_unique_95,player_95@steam.ua,40095,Game Vol.95,Installed,9.99,58%
+user_unique_96,player_96@steam.ua,40096,Game Vol.96,Installed,59.99,11%
+user_unique_97,player_97@steam.ua,40097,Game Vol.97,Running,0.0,52%
+user_unique_98,player_98@steam.ua,40098,Game Vol.98,Running,0.0,73%
+user_unique_99,player_99@steam.ua,40099,Game Vol.99,In Library,0.0,39%
+user_unique_100,player_100@steam.ua,40100,Game Vol.100,In Library,29.5,45%
+user_unique_101,player_101@steam.ua,40101,Game Vol.101,In Library,29.5,98%
+user_unique_102,player_102@steam.ua,40102,Game Vol.102,In Library,29.5,64%
+user_unique_103,player_103@steam.ua,40103,Game Vol.103,Running,59.99,84%
+user_unique_104,player_104@steam.ua,40104,Game Vol.104,In Library,9.99,74%
+user_unique_105,player_105@steam.ua,40105,Game Vol.105,In Library,29.5,66%
+user_unique_106,player_106@steam.ua,40106,Game Vol.106,In Library,29.5,14%
+user_unique_107,player_107@steam.ua,40107,Game Vol.107,In Library,29.5,30%
+user_unique_108,player_108@steam.ua,40108,Game Vol.108,Installed,9.99,19%
+user_unique_109,player_109@steam.ua,40109,Game Vol.109,Installed,0.0,24%
+user_unique_110,player_110@steam.ua,40110,Game Vol.110,Installed,0.0,48%
+user_unique_111,player_111@steam.ua,40111,Game Vol.111,In Library,0.0,29%
+user_unique_112,player_112@steam.ua,40112,Game Vol.112,Running,59.99,81%
+user_unique_113,player_113@steam.ua,40113,Game Vol.113,In Library,0.0,68%
+user_unique_114,player_114@steam.ua,40114,Game Vol.114,Installed,59.99,95%
+user_unique_115,player_115@steam.ua,40115,Game Vol.115,Running,19.99,93%
+user_unique_116,player_116@steam.ua,40116,Game Vol.116,Installed,29.5,41%
+user_unique_117,player_117@steam.ua,40117,Game Vol.117,Running,9.99,31%
+user_unique_118,player_118@steam.ua,40118,Game Vol.118,Installed,0.0,40%
+user_unique_119,player_119@steam.ua,40119,Game Vol.119,Installed,59.99,68%
+user_unique_120,player_120@steam.ua,40120,Game Vol.120,Running,9.99,72%
+user_unique_121,player_121@steam.ua,40121,Game Vol.121,In Library,9.99,78%
+user_unique_122,player_122@steam.ua,40122,Game Vol.122,Installed,29.5,48%
+user_unique_123,player_123@steam.ua,40123,Game Vol.123,In Library,29.5,37%
+user_unique_124,player_124@steam.ua,40124,Game Vol.124,Installed,59.99,35%
+user_unique_125,player_125@steam.ua,40125,Game Vol.125,Running,29.5,85%
+user_unique_126,player_126@steam.ua,40126,Game Vol.126,In Library,0.0,66%
+user_unique_127,player_127@steam.ua,40127,Game Vol.127,Installed,59.99,68%
+user_unique_128,player_128@steam.ua,40128,Game Vol.128,Running,19.99,59%
+user_unique_129,player_129@steam.ua,40129,Game Vol.129,Installed,9.99,10%
+user_unique_130,player_130@steam.ua,40130,Game Vol.130,Installed,29.5,67%
+user_unique_131,player_131@steam.ua,40131,Game Vol.131,In Library,59.99,60%
+user_unique_132,player_132@steam.ua,40132,Game Vol.132,Installed,9.99,85%
+user_unique_133,player_133@steam.ua,40133,Game Vol.133,Running,0.0,68%
+user_unique_134,player_134@steam.ua,40134,Game Vol.134,In Library,19.99,87%
+user_unique_135,player_135@steam.ua,40135,Game Vol.135,Running,59.99,6%
+user_unique_136,player_136@steam.ua,40136,Game Vol.136,Installed,59.99,32%
+user_unique_137,player_137@steam.ua,40137,Game Vol.137,Running,9.99,65%
+user_unique_138,player_138@steam.ua,40138,Game Vol.138,In Library,29.5,17%
+user_unique_139,player_139@steam.ua,40139,Game Vol.139,Running,9.99,13%
+user_unique_140,player_140@steam.ua,40140,Game Vol.140,Running,9.99,13%
+user_unique_141,player_141@steam.ua,40141,Game Vol.141,In Library,19.99,11%
+user_unique_142,player_142@steam.ua,40142,Game Vol.142,In Library,59.99,20%
+user_unique_143,player_143@steam.ua,40143,Game Vol.143,Running,59.99,57%
+user_unique_144,player_144@steam.ua,40144,Game Vol.144,Installed,19.99,75%
+user_unique_145,player_145@steam.ua,40145,Game Vol.145,Installed,59.99,63%
+user_unique_146,player_146@steam.ua,40146,Game Vol.146,Running,19.99,12%
+user_unique_147,player_147@steam.ua,40147,Game Vol.147,Running,0.0,24%
+user_unique_148,player_148@steam.ua,40148,Game Vol.148,Running,19.99,61%
+user_unique_149,player_149@steam.ua,40149,Game Vol.149,Running,59.99,40%
+user_unique_150,player_150@steam.ua,40150,Game Vol.150,Running,9.99,41%
+user_unique_151,player_151@steam.ua,40151,Game Vol.151,In Library,19.99,53%
+user_unique_152,player_152@steam.ua,40152,Game Vol.152,Installed,59.99,20%
+user_unique_153,player_153@steam.ua,40153,Game Vol.153,Running,0.0,76%
+user_unique_154,player_154@steam.ua,40154,Game Vol.154,Installed,29.5,75%
+user_unique_155,player_155@steam.ua,40155,Game Vol.155,Installed,59.99,18%
+user_unique_156,player_156@steam.ua,40156,Game Vol.156,In Library,29.5,27%
+user_unique_157,player_157@steam.ua,40157,Game Vol.157,In Library,19.99,5%
+user_unique_158,player_158@steam.ua,40158,Game Vol.158,Running,19.99,100%
+user_unique_159,player_159@steam.ua,40159,Game Vol.159,Running,0.0,10%
+user_unique_160,player_160@steam.ua,40160,Game Vol.160,Running,59.99,81%
+user_unique_161,player_161@steam.ua,40161,Game Vol.161,Installed,29.5,14%
+user_unique_162,player_162@steam.ua,40162,Game Vol.162,Installed,59.99,68%
+user_unique_163,player_163@steam.ua,40163,Game Vol.163,Installed,19.99,97%
+user_unique_164,player_164@steam.ua,40164,Game Vol.164,In Library,29.5,70%
+user_unique_165,player_165@steam.ua,40165,Game Vol.165,In Library,19.99,34%
+user_unique_166,player_166@steam.ua,40166,Game Vol.166,In Library,0.0,39%
+user_unique_167,player_167@steam.ua,40167,Game Vol.167,In Library,9.99,60%
+user_unique_168,player_168@steam.ua,40168,Game Vol.168,Running,59.99,70%
+user_unique_169,player_169@steam.ua,40169,Game Vol.169,Running,29.5,87%
+user_unique_170,player_170@steam.ua,40170,Game Vol.170,Running,9.99,93%
+user_unique_171,player_171@steam.ua,40171,Game Vol.171,Running,9.99,95%
+user_unique_172,player_172@steam.ua,40172,Game Vol.172,In Library,9.99,77%
+user_unique_173,player_173@steam.ua,40173,Game Vol.173,Installed,59.99,59%
+user_unique_174,player_174@steam.ua,40174,Game Vol.174,In Library,0.0,22%
+user_unique_175,player_175@steam.ua,40175,Game Vol.175,Installed,29.5,56%
+user_unique_176,player_176@steam.ua,40176,Game Vol.176,Running,19.99,36%
+user_unique_177,player_177@steam.ua,40177,Game Vol.177,Running,9.99,23%
+user_unique_178,player_178@steam.ua,40178,Game Vol.178,Installed,19.99,39%
+user_unique_179,player_179@steam.ua,40179,Game Vol.179,In Library,0.0,0%
+user_unique_180,player_180@steam.ua,40180,Game Vol.180,Installed,0.0,58%
+user_unique_181,player_181@steam.ua,40181,Game Vol.181,Running,9.99,35%
+user_unique_182,player_182@steam.ua,40182,Game Vol.182,Running,29.5,10%
+user_unique_183,player_183@steam.ua,40183,Game Vol.183,Running,59.99,91%
+user_unique_184,player_184@steam.ua,40184,Game Vol.184,Running,19.99,52%
+user_unique_185,player_185@steam.ua,40185,Game Vol.185,Installed,0.0,96%
+user_unique_186,player_186@steam.ua,40186,Game Vol.186,Installed,59.99,76%
+user_unique_187,player_187@steam.ua,40187,Game Vol.187,Installed,19.99,36%
+user_unique_188,player_188@steam.ua,40188,Game Vol.188,Installed,19.99,0%
+user_unique_189,player_189@steam.ua,40189,Game Vol.189,Running,29.5,70%
+user_unique_190,player_190@steam.ua,40190,Game Vol.190,Running,19.99,21%
+user_unique_191,player_191@steam.ua,40191,Game Vol.191,Running,19.99,90%
+user_unique_192,player_192@steam.ua,40192,Game Vol.192,In Library,9.99,71%
+user_unique_193,player_193@steam.ua,40193,Game Vol.193,Installed,0.0,40%
+user_unique_194,player_194@steam.ua,40194,Game Vol.194,In Library,29.5,85%
+user_unique_195,player_195@steam.ua,40195,Game Vol.195,In Library,9.99,25%
+user_unique_196,player_196@steam.ua,40196,Game Vol.196,Running,29.5,69%
+user_unique_197,player_197@steam.ua,40197,Game Vol.197,In Library,9.99,56%
+user_unique_198,player_198@steam.ua,40198,Game Vol.198,In Library,9.99,85%
+user_unique_199,player_199@steam.ua,40199,Game Vol.199,In Library,9.99,32%
+user_unique_200,player_200@steam.ua,40200,Game Vol.200,In Library,29.5,77%
+user_unique_201,player_201@steam.ua,40201,Game Vol.201,Installed,29.5,90%
+user_unique_202,player_202@steam.ua,40202,Game Vol.202,Installed,59.99,72%
+user_unique_203,player_203@steam.ua,40203,Game Vol.203,Installed,29.5,41%
+user_unique_204,player_204@steam.ua,40204,Game Vol.204,Running,59.99,32%
+user_unique_205,player_205@steam.ua,40205,Game Vol.205,In Library,29.5,6%
+user_unique_206,player_206@steam.ua,40206,Game Vol.206,In Library,0.0,90%
+user_unique_207,player_207@steam.ua,40207,Game Vol.207,Running,9.99,54%
+user_unique_208,player_208@steam.ua,40208,Game Vol.208,Running,59.99,75%
+user_unique_209,player_209@steam.ua,40209,Game Vol.209,Installed,19.99,76%
+user_unique_210,player_210@steam.ua,40210,Game Vol.210,In Library,59.99,8%
+user_unique_211,player_211@steam.ua,40211,Game Vol.211,In Library,19.99,27%
+user_unique_212,player_212@steam.ua,40212,Game Vol.212,Installed,19.99,73%
+user_unique_213,player_213@steam.ua,40213,Game Vol.213,Running,29.5,88%
+user_unique_214,player_214@steam.ua,40214,Game Vol.214,Running,29.5,44%
+user_unique_215,player_215@steam.ua,40215,Game Vol.215,Running,0.0,17%
+user_unique_216,player_216@steam.ua,40216,Game Vol.216,Running,9.99,10%
+user_unique_217,player_217@steam.ua,40217,Game Vol.217,Installed,19.99,35%
+user_unique_218,player_218@steam.ua,40218,Game Vol.218,Installed,0.0,8%
+user_unique_219,player_219@steam.ua,40219,Game Vol.219,In Library,9.99,69%
+user_unique_220,player_220@steam.ua,40220,Game Vol.220,In Library,0.0,85%
+user_unique_221,player_221@steam.ua,40221,Game Vol.221,In Library,19.99,72%
+user_unique_222,player_222@steam.ua,40222,Game Vol.222,Installed,29.5,53%
+user_unique_223,player_223@steam.ua,40223,Game Vol.223,In Library,0.0,5%
+user_unique_224,player_224@steam.ua,40224,Game Vol.224,Installed,29.5,92%
+user_unique_225,player_225@steam.ua,40225,Game Vol.225,In Library,0.0,54%
+user_unique_226,player_226@steam.ua,40226,Game Vol.226,In Library,9.99,74%
+user_unique_227,player_227@steam.ua,40227,Game Vol.227,In Library,59.99,54%
+user_unique_228,player_228@steam.ua,40228,Game Vol.228,Installed,0.0,16%
+user_unique_229,player_229@steam.ua,40229,Game Vol.229,In Library,29.5,81%
+user_unique_230,player_230@steam.ua,40230,Game Vol.230,Installed,9.99,33%
+user_unique_231,player_231@steam.ua,40231,Game Vol.231,In Library,0.0,51%
+user_unique_232,player_232@steam.ua,40232,Game Vol.232,In Library,59.99,90%
+user_unique_233,player_233@steam.ua,40233,Game Vol.233,Running,59.99,41%
+user_unique_234,player_234@steam.ua,40234,Game Vol.234,Running,59.99,8%
+user_unique_235,player_235@steam.ua,40235,Game Vol.235,Running,59.99,31%
+user_unique_236,player_236@steam.ua,40236,Game Vol.236,Running,59.99,72%
+user_unique_237,player_237@steam.ua,40237,Game Vol.237,Installed,59.99,69%
+user_unique_238,player_238@steam.ua,40238,Game Vol.238,Installed,19.99,67%
+user_unique_239,player_239@steam.ua,40239,Game Vol.239,In Library,9.99,94%
+user_unique_240,player_240@steam.ua,40240,Game Vol.240,Installed,29.5,3%
+user_unique_241,player_241@steam.ua,40241,Game Vol.241,Running,0.0,71%
+user_unique_242,player_242@steam.ua,40242,Game Vol.242,Installed,29.5,56%
+user_unique_243,player_243@steam.ua,40243,Game Vol.243,In Library,0.0,93%
+user_unique_244,player_244@steam.ua,40244,Game Vol.244,In Library,9.99,89%
+user_unique_245,player_245@steam.ua,40245,Game Vol.245,Installed,9.99,44%
+user_unique_246,player_246@steam.ua,40246,Game Vol.246,In Library,59.99,72%
+user_unique_247,player_247@steam.ua,40247,Game Vol.247,In Library,9.99,95%
+user_unique_248,player_248@steam.ua,40248,Game Vol.248,In Library,19.99,8%
+user_unique_249,player_249@steam.ua,40249,Game Vol.249,Installed,59.99,54%
+user_unique_250,player_250@steam.ua,40250,Game Vol.250,Installed,59.99,82%
+user_unique_251,player_251@steam.ua,40251,Game Vol.251,Running,0.0,30%
+user_unique_252,player_252@steam.ua,40252,Game Vol.252,Installed,59.99,61%
+user_unique_253,player_253@steam.ua,40253,Game Vol.253,Installed,19.99,67%
+user_unique_254,player_254@steam.ua,40254,Game Vol.254,Running,19.99,56%
+user_unique_255,player_255@steam.ua,40255,Game Vol.255,In Library,59.99,100%
+user_unique_256,player_256@steam.ua,40256,Game Vol.256,Running,59.99,62%
+user_unique_257,player_257@steam.ua,40257,Game Vol.257,Installed,59.99,52%
+user_unique_258,player_258@steam.ua,40258,Game Vol.258,Installed,29.5,9%
+user_unique_259,player_259@steam.ua,40259,Game Vol.259,Installed,19.99,22%
+user_unique_260,player_260@steam.ua,40260,Game Vol.260,Installed,0.0,53%
+user_unique_261,player_261@steam.ua,40261,Game Vol.261,Running,0.0,51%
+user_unique_262,player_262@steam.ua,40262,Game Vol.262,Installed,19.99,11%
+user_unique_263,player_263@steam.ua,40263,Game Vol.263,Running,29.5,88%
+user_unique_264,player_264@steam.ua,40264,Game Vol.264,Running,19.99,25%
+user_unique_265,player_265@steam.ua,40265,Game Vol.265,Installed,59.99,85%
+user_unique_266,player_266@steam.ua,40266,Game Vol.266,In Library,29.5,88%
+user_unique_267,player_267@steam.ua,40267,Game Vol.267,In Library,0.0,95%
+user_unique_268,player_268@steam.ua,40268,Game Vol.268,Running,29.5,15%
+user_unique_269,player_269@steam.ua,40269,Game Vol.269,Running,19.99,92%
+user_unique_270,player_270@steam.ua,40270,Game Vol.270,Installed,59.99,3%
+user_unique_271,player_271@steam.ua,40271,Game Vol.271,In Library,19.99,75%
+user_unique_272,player_272@steam.ua,40272,Game Vol.272,Running,29.5,13%
+user_unique_273,player_273@steam.ua,40273,Game Vol.273,In Library,0.0,86%
+user_unique_274,player_274@steam.ua,40274,Game Vol.274,Installed,19.99,36%
+user_unique_275,player_275@steam.ua,40275,Game Vol.275,Installed,29.5,79%
+user_unique_276,player_276@steam.ua,40276,Game Vol.276,In Library,9.99,94%
+user_unique_277,player_277@steam.ua,40277,Game Vol.277,Running,59.99,2%
+user_unique_278,player_278@steam.ua,40278,Game Vol.278,In Library,0.0,48%
+user_unique_279,player_279@steam.ua,40279,Game Vol.279,In Library,19.99,24%
+user_unique_280,player_280@steam.ua,40280,Game Vol.280,Installed,19.99,26%
+user_unique_281,player_281@steam.ua,40281,Game Vol.281,In Library,29.5,96%
+user_unique_282,player_282@steam.ua,40282,Game Vol.282,Running,9.99,19%
+user_unique_283,player_283@steam.ua,40283,Game Vol.283,Running,19.99,46%
+user_unique_284,player_284@steam.ua,40284,Game Vol.284,Installed,29.5,93%
+user_unique_285,player_285@steam.ua,40285,Game Vol.285,Installed,0.0,37%
+user_unique_286,player_286@steam.ua,40286,Game Vol.286,Running,0.0,93%
+user_unique_287,player_287@steam.ua,40287,Game Vol.287,In Library,59.99,42%
+user_unique_288,player_288@steam.ua,40288,Game Vol.288,In Library,9.99,6%
+user_unique_289,player_289@steam.ua,40289,Game Vol.289,Installed,29.5,96%
+user_unique_290,player_290@steam.ua,40290,Game Vol.290,Running,19.99,24%
+user_unique_291,player_291@steam.ua,40291,Game Vol.291,Installed,29.5,43%
+user_unique_292,player_292@steam.ua,40292,Game Vol.292,In Library,29.5,85%
+user_unique_293,player_293@steam.ua,40293,Game Vol.293,Running,9.99,18%
+user_unique_294,player_294@steam.ua,40294,Game Vol.294,Installed,0.0,82%
+user_unique_295,player_295@steam.ua,40295,Game Vol.295,Installed,9.99,43%
+user_unique_296,player_296@steam.ua,40296,Game Vol.296,In Library,0.0,91%
+user_unique_297,player_297@steam.ua,40297,Game Vol.297,In Library,59.99,61%
+user_unique_298,player_298@steam.ua,40298,Game Vol.298,In Library,29.5,41%
+user_unique_299,player_299@steam.ua,40299,Game Vol.299,Installed,0.0,65%
+user_unique_300,player_300@steam.ua,40300,Game Vol.300,Installed,59.99,88%
+user_unique_301,player_301@steam.ua,40301,Game Vol.301,Installed,0.0,54%
+user_unique_302,player_302@steam.ua,40302,Game Vol.302,In Library,29.5,45%
+user_unique_303,player_303@steam.ua,40303,Game Vol.303,In Library,29.5,12%
+user_unique_304,player_304@steam.ua,40304,Game Vol.304,In Library,19.99,95%
+user_unique_305,player_305@steam.ua,40305,Game Vol.305,Running,9.99,86%
+user_unique_306,player_306@steam.ua,40306,Game Vol.306,Installed,9.99,17%
+user_unique_307,player_307@steam.ua,40307,Game Vol.307,In Library,19.99,7%
+user_unique_308,player_308@steam.ua,40308,Game Vol.308,Running,29.5,65%
+user_unique_309,player_309@steam.ua,40309,Game Vol.309,In Library,0.0,44%
+user_unique_310,player_310@steam.ua,40310,Game Vol.310,Running,19.99,62%
+user_unique_311,player_311@steam.ua,40311,Game Vol.311,Running,29.5,11%
+user_unique_312,player_312@steam.ua,40312,Game Vol.312,Running,29.5,21%
+user_unique_313,player_313@steam.ua,40313,Game Vol.313,In Library,29.5,72%
+user_unique_314,player_314@steam.ua,40314,Game Vol.314,Running,59.99,0%
+user_unique_315,player_315@steam.ua,40315,Game Vol.315,In Library,0.0,36%
+user_unique_316,player_316@steam.ua,40316,Game Vol.316,Running,0.0,95%
+user_unique_317,player_317@steam.ua,40317,Game Vol.317,Running,29.5,17%
+user_unique_318,player_318@steam.ua,40318,Game Vol.318,In Library,19.99,59%
+user_unique_319,player_319@steam.ua,40319,Game Vol.319,In Library,0.0,66%
+user_unique_320,player_320@steam.ua,40320,Game Vol.320,Installed,0.0,89%
+user_unique_321,player_321@steam.ua,40321,Game Vol.321,Running,19.99,5%
+user_unique_322,player_322@steam.ua,40322,Game Vol.322,Installed,59.99,62%
+user_unique_323,player_323@steam.ua,40323,Game Vol.323,Running,29.5,47%
+user_unique_324,player_324@steam.ua,40324,Game Vol.324,Installed,29.5,40%
+user_unique_325,player_325@steam.ua,40325,Game Vol.325,Installed,29.5,3%
+user_unique_326,player_326@steam.ua,40326,Game Vol.326,Running,19.99,75%
+user_unique_327,player_327@steam.ua,40327,Game Vol.327,Running,59.99,1%
+user_unique_328,player_328@steam.ua,40328,Game Vol.328,In Library,19.99,28%
+user_unique_329,player_329@steam.ua,40329,Game Vol.329,In Library,29.5,82%
+user_unique_330,player_330@steam.ua,40330,Game Vol.330,Running,0.0,46%
+user_unique_331,player_331@steam.ua,40331,Game Vol.331,Installed,9.99,51%
+user_unique_332,player_332@steam.ua,40332,Game Vol.332,Installed,59.99,68%
+user_unique_333,player_333@steam.ua,40333,Game Vol.333,Installed,0.0,51%
+user_unique_334,player_334@steam.ua,40334,Game Vol.334,In Library,59.99,62%
+user_unique_335,player_335@steam.ua,40335,Game Vol.335,Running,9.99,49%
+user_unique_336,player_336@steam.ua,40336,Game Vol.336,Running,0.0,24%
+user_unique_337,player_337@steam.ua,40337,Game Vol.337,Running,9.99,45%
+user_unique_338,player_338@steam.ua,40338,Game Vol.338,Installed,0.0,11%
+user_unique_339,player_339@steam.ua,40339,Game Vol.339,Installed,19.99,47%
+user_unique_340,player_340@steam.ua,40340,Game Vol.340,Installed,19.99,70%
+user_unique_341,player_341@steam.ua,40341,Game Vol.341,Installed,9.99,89%
+user_unique_342,player_342@steam.ua,40342,Game Vol.342,Installed,0.0,30%
+user_unique_343,player_343@steam.ua,40343,Game Vol.343,Running,9.99,25%
+user_unique_344,player_344@steam.ua,40344,Game Vol.344,Installed,29.5,0%
+user_unique_345,player_345@steam.ua,40345,Game Vol.345,Running,19.99,24%
+user_unique_346,player_346@steam.ua,40346,Game Vol.346,Running,9.99,69%
+user_unique_347,player_347@steam.ua,40347,Game Vol.347,Installed,59.99,95%
+user_unique_348,player_348@steam.ua,40348,Game Vol.348,Running,19.99,67%
+user_unique_349,player_349@steam.ua,40349,Game Vol.349,In Library,19.99,67%
+user_unique_350,player_350@steam.ua,40350,Game Vol.350,Running,0.0,14%
+user_unique_351,player_351@steam.ua,40351,Game Vol.351,Running,29.5,86%
+user_unique_352,player_352@steam.ua,40352,Game Vol.352,Running,29.5,83%
+user_unique_353,player_353@steam.ua,40353,Game Vol.353,Installed,59.99,65%
+user_unique_354,player_354@steam.ua,40354,Game Vol.354,Installed,19.99,58%
+user_unique_355,player_355@steam.ua,40355,Game Vol.355,In Library,9.99,37%
+user_unique_356,player_356@steam.ua,40356,Game Vol.356,In Library,29.5,22%
+user_unique_357,player_357@steam.ua,40357,Game Vol.357,Installed,0.0,16%
+user_unique_358,player_358@steam.ua,40358,Game Vol.358,In Library,59.99,11%
+user_unique_359,player_359@steam.ua,40359,Game Vol.359,Running,59.99,48%
+user_unique_360,player_360@steam.ua,40360,Game Vol.360,Running,59.99,17%
+user_unique_361,player_361@steam.ua,40361,Game Vol.361,Installed,0.0,75%
+user_unique_362,player_362@steam.ua,40362,Game Vol.362,In Library,9.99,77%
+user_unique_363,player_363@steam.ua,40363,Game Vol.363,In Library,59.99,11%
+user_unique_364,player_364@steam.ua,40364,Game Vol.364,In Library,0.0,47%
+user_unique_365,player_365@steam.ua,40365,Game Vol.365,Installed,0.0,26%
+user_unique_366,player_366@steam.ua,40366,Game Vol.366,Installed,29.5,63%
+user_unique_367,player_367@steam.ua,40367,Game Vol.367,Installed,29.5,65%
+user_unique_368,player_368@steam.ua,40368,Game Vol.368,Running,9.99,8%
+user_unique_369,player_369@steam.ua,40369,Game Vol.369,Running,0.0,6%
+user_unique_370,player_370@steam.ua,40370,Game Vol.370,Running,59.99,63%
+user_unique_371,player_371@steam.ua,40371,Game Vol.371,Installed,0.0,65%
+user_unique_372,player_372@steam.ua,40372,Game Vol.372,In Library,59.99,70%
+user_unique_373,player_373@steam.ua,40373,Game Vol.373,Installed,9.99,32%
+user_unique_374,player_374@steam.ua,40374,Game Vol.374,Installed,19.99,49%
+user_unique_375,player_375@steam.ua,40375,Game Vol.375,Running,59.99,91%
+user_unique_376,player_376@steam.ua,40376,Game Vol.376,Running,0.0,68%
+user_unique_377,player_377@steam.ua,40377,Game Vol.377,Running,19.99,25%
+user_unique_378,player_378@steam.ua,40378,Game Vol.378,Running,9.99,56%
+user_unique_379,player_379@steam.ua,40379,Game Vol.379,Running,19.99,52%
+user_unique_380,player_380@steam.ua,40380,Game Vol.380,Installed,29.5,100%
+user_unique_381,player_381@steam.ua,40381,Game Vol.381,Installed,19.99,100%
+user_unique_382,player_382@steam.ua,40382,Game Vol.382,Installed,19.99,74%
+user_unique_383,player_383@steam.ua,40383,Game Vol.383,Running,19.99,53%
+user_unique_384,player_384@steam.ua,40384,Game Vol.384,In Library,19.99,5%
+user_unique_385,player_385@steam.ua,40385,Game Vol.385,Running,0.0,94%
+user_unique_386,player_386@steam.ua,40386,Game Vol.386,Installed,0.0,99%
+user_unique_387,player_387@steam.ua,40387,Game Vol.387,Running,9.99,68%
+user_unique_388,player_388@steam.ua,40388,Game Vol.388,Installed,0.0,64%
+user_unique_389,player_389@steam.ua,40389,Game Vol.389,Running,59.99,54%
+user_unique_390,player_390@steam.ua,40390,Game Vol.390,In Library,0.0,8%
+user_unique_391,player_391@steam.ua,40391,Game Vol.391,In Library,0.0,39%
+user_unique_392,player_392@steam.ua,40392,Game Vol.392,Installed,9.99,60%
+user_unique_393,player_393@steam.ua,40393,Game Vol.393,Running,19.99,33%
+user_unique_394,player_394@steam.ua,40394,Game Vol.394,Running,9.99,53%
+user_unique_395,player_395@steam.ua,40395,Game Vol.395,In Library,19.99,27%
+user_unique_396,player_396@steam.ua,40396,Game Vol.396,Running,59.99,72%
+user_unique_397,player_397@steam.ua,40397,Game Vol.397,Running,59.99,47%
+user_unique_398,player_398@steam.ua,40398,Game Vol.398,Running,59.99,84%
+user_unique_399,player_399@steam.ua,40399,Game Vol.399,Installed,59.99,64%
+user_unique_400,player_400@steam.ua,40400,Game Vol.400,Running,9.99,46%
+user_unique_401,player_401@steam.ua,40401,Game Vol.401,Running,9.99,71%
+user_unique_402,player_402@steam.ua,40402,Game Vol.402,Running,29.5,71%
+user_unique_403,player_403@steam.ua,40403,Game Vol.403,Running,0.0,59%
+user_unique_404,player_404@steam.ua,40404,Game Vol.404,Running,9.99,89%
+user_unique_405,player_405@steam.ua,40405,Game Vol.405,Running,59.99,2%
+user_unique_406,player_406@steam.ua,40406,Game Vol.406,In Library,9.99,53%
+user_unique_407,player_407@steam.ua,40407,Game Vol.407,In Library,0.0,33%
+user_unique_408,player_408@steam.ua,40408,Game Vol.408,In Library,19.99,31%
+user_unique_409,player_409@steam.ua,40409,Game Vol.409,In Library,29.5,39%
+user_unique_410,player_410@steam.ua,40410,Game Vol.410,Running,59.99,54%
+user_unique_411,player_411@steam.ua,40411,Game Vol.411,Installed,19.99,21%
+user_unique_412,player_412@steam.ua,40412,Game Vol.412,Running,9.99,16%
+user_unique_413,player_413@steam.ua,40413,Game Vol.413,In Library,9.99,9%
+user_unique_414,player_414@steam.ua,40414,Game Vol.414,In Library,0.0,90%
+user_unique_415,player_415@steam.ua,40415,Game Vol.415,Running,59.99,42%
+user_unique_416,player_416@steam.ua,40416,Game Vol.416,Installed,9.99,9%
+user_unique_417,player_417@steam.ua,40417,Game Vol.417,Installed,19.99,93%
+user_unique_418,player_418@steam.ua,40418,Game Vol.418,In Library,0.0,12%
+user_unique_419,player_419@steam.ua,40419,Game Vol.419,Installed,0.0,77%
+user_unique_420,player_420@steam.ua,40420,Game Vol.420,Installed,19.99,35%
+user_unique_421,player_421@steam.ua,40421,Game Vol.421,In Library,0.0,79%
+user_unique_422,player_422@steam.ua,40422,Game Vol.422,In Library,29.5,100%
+user_unique_423,player_423@steam.ua,40423,Game Vol.423,Running,59.99,15%
+user_unique_424,player_424@steam.ua,40424,Game Vol.424,Running,19.99,81%
+user_unique_425,player_425@steam.ua,40425,Game Vol.425,Running,29.5,99%
+user_unique_426,player_426@steam.ua,40426,Game Vol.426,Running,0.0,21%
+user_unique_427,player_427@steam.ua,40427,Game Vol.427,Installed,59.99,25%
+user_unique_428,player_428@steam.ua,40428,Game Vol.428,Installed,19.99,62%
+user_unique_429,player_429@steam.ua,40429,Game Vol.429,Installed,9.99,81%
+user_unique_430,player_430@steam.ua,40430,Game Vol.430,Running,59.99,27%
+user_unique_431,player_431@steam.ua,40431,Game Vol.431,In Library,0.0,43%
+user_unique_432,player_432@steam.ua,40432,Game Vol.432,In Library,19.99,68%
+user_unique_433,player_433@steam.ua,40433,Game Vol.433,Running,19.99,59%
+user_unique_434,player_434@steam.ua,40434,Game Vol.434,In Library,19.99,9%
+user_unique_435,player_435@steam.ua,40435,Game Vol.435,Installed,9.99,76%
+user_unique_436,player_436@steam.ua,40436,Game Vol.436,Installed,59.99,32%
+user_unique_437,player_437@steam.ua,40437,Game Vol.437,Installed,19.99,51%
+user_unique_438,player_438@steam.ua,40438,Game Vol.438,In Library,9.99,61%
+user_unique_439,player_439@steam.ua,40439,Game Vol.439,Running,19.99,3%
+user_unique_440,player_440@steam.ua,40440,Game Vol.440,Installed,0.0,90%
+user_unique_441,player_441@steam.ua,40441,Game Vol.441,Installed,9.99,88%
+user_unique_442,player_442@steam.ua,40442,Game Vol.442,Running,9.99,48%
+user_unique_443,player_443@steam.ua,40443,Game Vol.443,Installed,9.99,19%
+user_unique_444,player_444@steam.ua,40444,Game Vol.444,Running,29.5,36%
+user_unique_445,player_445@steam.ua,40445,Game Vol.445,Running,0.0,67%
+user_unique_446,player_446@steam.ua,40446,Game Vol.446,Running,59.99,100%
+user_unique_447,player_447@steam.ua,40447,Game Vol.447,Installed,9.99,81%
+user_unique_448,player_448@steam.ua,40448,Game Vol.448,Running,29.5,58%
+user_unique_449,player_449@steam.ua,40449,Game Vol.449,Installed,19.99,32%
+user_unique_450,player_450@steam.ua,40450,Game Vol.450,Running,29.5,100%
+user_unique_451,player_451@steam.ua,40451,Game Vol.451,In Library,59.99,23%
+user_unique_452,player_452@steam.ua,40452,Game Vol.452,Installed,0.0,6%
+user_unique_453,player_453@steam.ua,40453,Game Vol.453,Running,59.99,73%
+user_unique_454,player_454@steam.ua,40454,Game Vol.454,Running,0.0,62%
+user_unique_455,player_455@steam.ua,40455,Game Vol.455,Running,29.5,32%
+user_unique_456,player_456@steam.ua,40456,Game Vol.456,Installed,19.99,32%
+user_unique_457,player_457@steam.ua,40457,Game Vol.457,Installed,19.99,88%
+user_unique_458,player_458@steam.ua,40458,Game Vol.458,Installed,29.5,28%
+user_unique_459,player_459@steam.ua,40459,Game Vol.459,Running,19.99,86%
+user_unique_460,player_460@steam.ua,40460,Game Vol.460,Installed,29.5,91%
+user_unique_461,player_461@steam.ua,40461,Game Vol.461,In Library,59.99,0%
+user_unique_462,player_462@steam.ua,40462,Game Vol.462,Running,0.0,6%
+user_unique_463,player_463@steam.ua,40463,Game Vol.463,Running,29.5,49%
+user_unique_464,player_464@steam.ua,40464,Game Vol.464,In Library,29.5,49%
+user_unique_465,player_465@steam.ua,40465,Game Vol.465,Installed,29.5,20%
+user_unique_466,player_466@steam.ua,40466,Game Vol.466,Running,0.0,30%
+user_unique_467,player_467@steam.ua,40467,Game Vol.467,Running,59.99,8%
+user_unique_468,player_468@steam.ua,40468,Game Vol.468,In Library,0.0,64%
+user_unique_469,player_469@steam.ua,40469,Game Vol.469,In Library,29.5,68%
+user_unique_470,player_470@steam.ua,40470,Game Vol.470,Installed,59.99,39%
+user_unique_471,player_471@steam.ua,40471,Game Vol.471,In Library,0.0,62%
+user_unique_472,player_472@steam.ua,40472,Game Vol.472,Installed,29.5,56%
+user_unique_473,player_473@steam.ua,40473,Game Vol.473,In Library,29.5,32%
+user_unique_474,player_474@steam.ua,40474,Game Vol.474,Running,29.5,91%
+user_unique_475,player_475@steam.ua,40475,Game Vol.475,Installed,59.99,80%
+user_unique_476,player_476@steam.ua,40476,Game Vol.476,In Library,19.99,93%
+user_unique_477,player_477@steam.ua,40477,Game Vol.477,In Library,0.0,43%
+user_unique_478,player_478@steam.ua,40478,Game Vol.478,Running,19.99,78%
+user_unique_479,player_479@steam.ua,40479,Game Vol.479,Running,9.99,52%
+user_unique_480,player_480@steam.ua,40480,Game Vol.480,Installed,59.99,96%
+user_unique_481,player_481@steam.ua,40481,Game Vol.481,In Library,29.5,34%
+user_unique_482,player_482@steam.ua,40482,Game Vol.482,In Library,0.0,31%
+user_unique_483,player_483@steam.ua,40483,Game Vol.483,Running,59.99,88%
+user_unique_484,player_484@steam.ua,40484,Game Vol.484,In Library,0.0,68%
+user_unique_485,player_485@steam.ua,40485,Game Vol.485,Installed,59.99,38%
+user_unique_486,player_486@steam.ua,40486,Game Vol.486,Installed,19.99,49%
+user_unique_487,player_487@steam.ua,40487,Game Vol.487,Installed,9.99,17%
+user_unique_488,player_488@steam.ua,40488,Game Vol.488,Running,9.99,90%
+user_unique_489,player_489@steam.ua,40489,Game Vol.489,In Library,59.99,5%
+user_unique_490,player_490@steam.ua,40490,Game Vol.490,In Library,59.99,0%
+user_unique_491,player_491@steam.ua,40491,Game Vol.491,Running,9.99,97%
+user_unique_492,player_492@steam.ua,40492,Game Vol.492,Running,59.99,32%
+user_unique_493,player_493@steam.ua,40493,Game Vol.493,In Library,19.99,35%
+user_unique_494,player_494@steam.ua,40494,Game Vol.494,Running,9.99,65%
+user_unique_495,player_495@steam.ua,40495,Game Vol.495,Running,9.99,2%
+user_unique_496,player_496@steam.ua,40496,Game Vol.496,In Library,9.99,50%
+user_unique_497,player_497@steam.ua,40497,Game Vol.497,Running,0.0,38%
+user_unique_498,player_498@steam.ua,40498,Game Vol.498,In Library,59.99,30%
+user_unique_499,player_499@steam.ua,40499,Game Vol.499,In Library,0.0,84%
+user_unique_500,player_500@steam.ua,40500,Game Vol.500,In Library,0.0,71%
+user_unique_501,player_501@steam.ua,40501,Game Vol.501,Installed,29.5,33%
+user_unique_502,player_502@steam.ua,40502,Game Vol.502,In Library,9.99,68%
+user_unique_503,player_503@steam.ua,40503,Game Vol.503,Installed,59.99,79%
+user_unique_504,player_504@steam.ua,40504,Game Vol.504,Running,29.5,40%
+user_unique_505,player_505@steam.ua,40505,Game Vol.505,In Library,29.5,82%
+user_unique_506,player_506@steam.ua,40506,Game Vol.506,Installed,0.0,60%
+user_unique_507,player_507@steam.ua,40507,Game Vol.507,In Library,59.99,25%
+user_unique_508,player_508@steam.ua,40508,Game Vol.508,Installed,0.0,76%
+user_unique_509,player_509@steam.ua,40509,Game Vol.509,In Library,0.0,15%
+user_unique_510,player_510@steam.ua,40510,Game Vol.510,In Library,9.99,29%
+user_unique_511,player_511@steam.ua,40511,Game Vol.511,Installed,59.99,94%
+user_unique_512,player_512@steam.ua,40512,Game Vol.512,In Library,9.99,61%
+user_unique_513,player_513@steam.ua,40513,Game Vol.513,Running,59.99,23%
+user_unique_514,player_514@steam.ua,40514,Game Vol.514,Installed,19.99,17%
+user_unique_515,player_515@steam.ua,40515,Game Vol.515,Running,9.99,77%
+user_unique_516,player_516@steam.ua,40516,Game Vol.516,Installed,29.5,95%
+user_unique_517,player_517@steam.ua,40517,Game Vol.517,Running,9.99,25%
+user_unique_518,player_518@steam.ua,40518,Game Vol.518,Installed,59.99,75%
+user_unique_519,player_519@steam.ua,40519,Game Vol.519,Installed,19.99,41%
+user_unique_520,player_520@steam.ua,40520,Game Vol.520,Installed,0.0,9%
+user_unique_521,player_521@steam.ua,40521,Game Vol.521,In Library,29.5,65%
+user_unique_522,player_522@steam.ua,40522,Game Vol.522,Running,9.99,61%
+user_unique_523,player_523@steam.ua,40523,Game Vol.523,In Library,29.5,33%
+user_unique_524,player_524@steam.ua,40524,Game Vol.524,In Library,9.99,24%
+user_unique_525,player_525@steam.ua,40525,Game Vol.525,In Library,19.99,55%
+user_unique_526,player_526@steam.ua,40526,Game Vol.526,Installed,19.99,8%
+user_unique_527,player_527@steam.ua,40527,Game Vol.527,In Library,19.99,13%
+user_unique_528,player_528@steam.ua,40528,Game Vol.528,In Library,19.99,8%
+user_unique_529,player_529@steam.ua,40529,Game Vol.529,Running,0.0,44%
+user_unique_530,player_530@steam.ua,40530,Game Vol.530,Installed,59.99,63%
+user_unique_531,player_531@steam.ua,40531,Game Vol.531,In Library,59.99,1%
+user_unique_532,player_532@steam.ua,40532,Game Vol.532,Installed,29.5,19%
+user_unique_533,player_533@steam.ua,40533,Game Vol.533,In Library,29.5,79%
+user_unique_534,player_534@steam.ua,40534,Game Vol.534,Running,29.5,39%
+user_unique_535,player_535@steam.ua,40535,Game Vol.535,Installed,19.99,23%
+user_unique_536,player_536@steam.ua,40536,Game Vol.536,In Library,9.99,35%
+user_unique_537,player_537@steam.ua,40537,Game Vol.537,In Library,19.99,1%
+user_unique_538,player_538@steam.ua,40538,Game Vol.538,Installed,19.99,80%
+user_unique_539,player_539@steam.ua,40539,Game Vol.539,In Library,59.99,3%
+user_unique_540,player_540@steam.ua,40540,Game Vol.540,Running,9.99,65%
+user_unique_541,player_541@steam.ua,40541,Game Vol.541,Running,29.5,4%
+user_unique_542,player_542@steam.ua,40542,Game Vol.542,Installed,9.99,9%
+user_unique_543,player_543@steam.ua,40543,Game Vol.543,Installed,9.99,47%
+user_unique_544,player_544@steam.ua,40544,Game Vol.544,Installed,19.99,83%
+user_unique_545,player_545@steam.ua,40545,Game Vol.545,Running,29.5,53%
+user_unique_546,player_546@steam.ua,40546,Game Vol.546,In Library,0.0,77%
+user_unique_547,player_547@steam.ua,40547,Game Vol.547,Installed,0.0,89%
+user_unique_548,player_548@steam.ua,40548,Game Vol.548,Running,9.99,13%
+user_unique_549,player_549@steam.ua,40549,Game Vol.549,In Library,19.99,11%
+user_unique_550,player_550@steam.ua,40550,Game Vol.550,Running,0.0,66%
+user_unique_551,player_551@steam.ua,40551,Game Vol.551,In Library,9.99,80%
+user_unique_552,player_552@steam.ua,40552,Game Vol.552,In Library,29.5,70%
+user_unique_553,player_553@steam.ua,40553,Game Vol.553,In Library,19.99,86%
+user_unique_554,player_554@steam.ua,40554,Game Vol.554,Installed,19.99,0%
+user_unique_555,player_555@steam.ua,40555,Game Vol.555,In Library,9.99,29%
+user_unique_556,player_556@steam.ua,40556,Game Vol.556,Running,0.0,11%
+user_unique_557,player_557@steam.ua,40557,Game Vol.557,Installed,19.99,16%
+user_unique_558,player_558@steam.ua,40558,Game Vol.558,Running,29.5,17%
+user_unique_559,player_559@steam.ua,40559,Game Vol.559,Installed,29.5,85%
+user_unique_560,player_560@steam.ua,40560,Game Vol.560,In Library,29.5,69%
+user_unique_561,player_561@steam.ua,40561,Game Vol.561,Installed,0.0,27%
+user_unique_562,player_562@steam.ua,40562,Game Vol.562,In Library,29.5,31%
+user_unique_563,player_563@steam.ua,40563,Game Vol.563,Running,9.99,0%
+user_unique_564,player_564@steam.ua,40564,Game Vol.564,Installed,9.99,95%
+user_unique_565,player_565@steam.ua,40565,Game Vol.565,Installed,59.99,54%
+user_unique_566,player_566@steam.ua,40566,Game Vol.566,Installed,29.5,81%
+user_unique_567,player_567@steam.ua,40567,Game Vol.567,Running,59.99,23%
+user_unique_568,player_568@steam.ua,40568,Game Vol.568,In Library,59.99,65%
+user_unique_569,player_569@steam.ua,40569,Game Vol.569,In Library,0.0,28%
+user_unique_570,player_570@steam.ua,40570,Game Vol.570,Installed,29.5,58%
+user_unique_571,player_571@steam.ua,40571,Game Vol.571,Installed,59.99,59%
+user_unique_572,player_572@steam.ua,40572,Game Vol.572,Running,29.5,83%
+user_unique_573,player_573@steam.ua,40573,Game Vol.573,In Library,0.0,3%
+user_unique_574,player_574@steam.ua,40574,Game Vol.574,Running,9.99,2%
+user_unique_575,player_575@steam.ua,40575,Game Vol.575,Running,0.0,48%
+user_unique_576,player_576@steam.ua,40576,Game Vol.576,Running,59.99,23%
+user_unique_577,player_577@steam.ua,40577,Game Vol.577,In Library,19.99,78%
+user_unique_578,player_578@steam.ua,40578,Game Vol.578,In Library,0.0,74%
+user_unique_579,player_579@steam.ua,40579,Game Vol.579,Installed,59.99,91%
+user_unique_580,player_580@steam.ua,40580,Game Vol.580,In Library,19.99,0%
+user_unique_581,player_581@steam.ua,40581,Game Vol.581,Running,29.5,53%
+user_unique_582,player_582@steam.ua,40582,Game Vol.582,In Library,19.99,98%
+user_unique_583,player_583@steam.ua,40583,Game Vol.583,Running,29.5,25%
+user_unique_584,player_584@steam.ua,40584,Game Vol.584,In Library,0.0,80%
+user_unique_585,player_585@steam.ua,40585,Game Vol.585,Installed,19.99,24%
+user_unique_586,player_586@steam.ua,40586,Game Vol.586,Running,0.0,11%
+user_unique_587,player_587@steam.ua,40587,Game Vol.587,Running,29.5,75%
+user_unique_588,player_588@steam.ua,40588,Game Vol.588,Installed,29.5,4%
+user_unique_589,player_589@steam.ua,40589,Game Vol.589,Running,9.99,47%
+user_unique_590,player_590@steam.ua,40590,Game Vol.590,In Library,0.0,17%
+user_unique_591,player_591@steam.ua,40591,Game Vol.591,In Library,0.0,36%
+user_unique_592,player_592@steam.ua,40592,Game Vol.592,In Library,19.99,77%
+user_unique_593,player_593@steam.ua,40593,Game Vol.593,Running,9.99,64%
+user_unique_594,player_594@steam.ua,40594,Game Vol.594,In Library,29.5,40%
+user_unique_595,player_595@steam.ua,40595,Game Vol.595,In Library,9.99,94%
+user_unique_596,player_596@steam.ua,40596,Game Vol.596,In Library,29.5,18%
+user_unique_597,player_597@steam.ua,40597,Game Vol.597,Installed,0.0,25%
+user_unique_598,player_598@steam.ua,40598,Game Vol.598,Installed,29.5,7%
+user_unique_599,player_599@steam.ua,40599,Game Vol.599,In Library,0.0,35%
+user_unique_600,player_600@steam.ua,40600,Game Vol.600,Running,9.99,33%
+user_unique_601,player_601@steam.ua,40601,Game Vol.601,In Library,29.5,65%
+user_unique_602,player_602@steam.ua,40602,Game Vol.602,Installed,29.5,1%
+user_unique_603,player_603@steam.ua,40603,Game Vol.603,In Library,29.5,59%
+user_unique_604,player_604@steam.ua,40604,Game Vol.604,Installed,19.99,52%
+user_unique_605,player_605@steam.ua,40605,Game Vol.605,Installed,0.0,85%
+user_unique_606,player_606@steam.ua,40606,Game Vol.606,In Library,59.99,17%
+user_unique_607,player_607@steam.ua,40607,Game Vol.607,Installed,19.99,62%
+user_unique_608,player_608@steam.ua,40608,Game Vol.608,Running,9.99,62%
+user_unique_609,player_609@steam.ua,40609,Game Vol.609,Installed,19.99,74%
+user_unique_610,player_610@steam.ua,40610,Game Vol.610,Running,29.5,52%
+user_unique_611,player_611@steam.ua,40611,Game Vol.611,In Library,19.99,65%
+user_unique_612,player_612@steam.ua,40612,Game Vol.612,Installed,9.99,25%
+user_unique_613,player_613@steam.ua,40613,Game Vol.613,Running,9.99,45%
+user_unique_614,player_614@steam.ua,40614,Game Vol.614,Installed,0.0,97%
+user_unique_615,player_615@steam.ua,40615,Game Vol.615,In Library,0.0,97%
+user_unique_616,player_616@steam.ua,40616,Game Vol.616,Running,19.99,60%
+user_unique_617,player_617@steam.ua,40617,Game Vol.617,In Library,29.5,46%
+user_unique_618,player_618@steam.ua,40618,Game Vol.618,In Library,9.99,38%
+user_unique_619,player_619@steam.ua,40619,Game Vol.619,Installed,9.99,24%
+user_unique_620,player_620@steam.ua,40620,Game Vol.620,Running,29.5,94%
+user_unique_621,player_621@steam.ua,40621,Game Vol.621,In Library,59.99,30%
+user_unique_622,player_622@steam.ua,40622,Game Vol.622,In Library,29.5,5%
+user_unique_623,player_623@steam.ua,40623,Game Vol.623,Installed,29.5,70%
+user_unique_624,player_624@steam.ua,40624,Game Vol.624,Running,0.0,91%
+user_unique_625,player_625@steam.ua,40625,Game Vol.625,Running,19.99,34%
+user_unique_626,player_626@steam.ua,40626,Game Vol.626,In Library,29.5,36%
+user_unique_627,player_627@steam.ua,40627,Game Vol.627,In Library,59.99,62%
+user_unique_628,player_628@steam.ua,40628,Game Vol.628,Running,9.99,93%
+user_unique_629,player_629@steam.ua,40629,Game Vol.629,Running,19.99,53%
+user_unique_630,player_630@steam.ua,40630,Game Vol.630,Running,9.99,88%
+user_unique_631,player_631@steam.ua,40631,Game Vol.631,Running,9.99,5%
+user_unique_632,player_632@steam.ua,40632,Game Vol.632,In Library,29.5,7%
+user_unique_633,player_633@steam.ua,40633,Game Vol.633,In Library,59.99,94%
+user_unique_634,player_634@steam.ua,40634,Game Vol.634,In Library,59.99,12%
+user_unique_635,player_635@steam.ua,40635,Game Vol.635,Running,29.5,6%
+user_unique_636,player_636@steam.ua,40636,Game Vol.636,In Library,19.99,92%
+user_unique_637,player_637@steam.ua,40637,Game Vol.637,Running,19.99,37%
+user_unique_638,player_638@steam.ua,40638,Game Vol.638,Running,59.99,31%
+user_unique_639,player_639@steam.ua,40639,Game Vol.639,In Library,29.5,95%
+user_unique_640,player_640@steam.ua,40640,Game Vol.640,Running,19.99,7%
+user_unique_641,player_641@steam.ua,40641,Game Vol.641,In Library,29.5,33%
+user_unique_642,player_642@steam.ua,40642,Game Vol.642,Installed,19.99,41%
+user_unique_643,player_643@steam.ua,40643,Game Vol.643,Running,59.99,78%
+user_unique_644,player_644@steam.ua,40644,Game Vol.644,In Library,0.0,25%
+user_unique_645,player_645@steam.ua,40645,Game Vol.645,Running,29.5,25%
+user_unique_646,player_646@steam.ua,40646,Game Vol.646,In Library,19.99,95%
+user_unique_647,player_647@steam.ua,40647,Game Vol.647,Running,29.5,40%
+user_unique_648,player_648@steam.ua,40648,Game Vol.648,In Library,59.99,82%
+user_unique_649,player_649@steam.ua,40649,Game Vol.649,In Library,0.0,81%
+user_unique_650,player_650@steam.ua,40650,Game Vol.650,In Library,19.99,46%
+user_unique_651,player_651@steam.ua,40651,Game Vol.651,In Library,59.99,47%
+user_unique_652,player_652@steam.ua,40652,Game Vol.652,Running,59.99,2%
+user_unique_653,player_653@steam.ua,40653,Game Vol.653,Installed,9.99,84%
+user_unique_654,player_654@steam.ua,40654,Game Vol.654,Installed,9.99,52%
+user_unique_655,player_655@steam.ua,40655,Game Vol.655,Running,19.99,87%
+user_unique_656,player_656@steam.ua,40656,Game Vol.656,Running,29.5,25%
+user_unique_657,player_657@steam.ua,40657,Game Vol.657,Installed,59.99,54%
+user_unique_658,player_658@steam.ua,40658,Game Vol.658,In Library,0.0,97%
+user_unique_659,player_659@steam.ua,40659,Game Vol.659,Installed,29.5,38%
+user_unique_660,player_660@steam.ua,40660,Game Vol.660,Running,0.0,44%
+user_unique_661,player_661@steam.ua,40661,Game Vol.661,Running,9.99,38%
+user_unique_662,player_662@steam.ua,40662,Game Vol.662,Running,59.99,65%
+user_unique_663,player_663@steam.ua,40663,Game Vol.663,Running,59.99,42%
+user_unique_664,player_664@steam.ua,40664,Game Vol.664,In Library,0.0,7%
+user_unique_665,player_665@steam.ua,40665,Game Vol.665,In Library,9.99,97%
+user_unique_666,player_666@steam.ua,40666,Game Vol.666,Installed,19.99,89%
+user_unique_667,player_667@steam.ua,40667,Game Vol.667,Running,19.99,30%
+user_unique_668,player_668@steam.ua,40668,Game Vol.668,Running,59.99,10%
+user_unique_669,player_669@steam.ua,40669,Game Vol.669,Installed,19.99,26%
+user_unique_670,player_670@steam.ua,40670,Game Vol.670,In Library,0.0,100%
+user_unique_671,player_671@steam.ua,40671,Game Vol.671,Installed,0.0,91%
+user_unique_672,player_672@steam.ua,40672,Game Vol.672,In Library,9.99,26%
+user_unique_673,player_673@steam.ua,40673,Game Vol.673,In Library,59.99,73%
+user_unique_674,player_674@steam.ua,40674,Game Vol.674,Installed,19.99,13%
+user_unique_675,player_675@steam.ua,40675,Game Vol.675,Installed,19.99,89%
+user_unique_676,player_676@steam.ua,40676,Game Vol.676,In Library,59.99,47%
+user_unique_677,player_677@steam.ua,40677,Game Vol.677,Running,0.0,43%
+user_unique_678,player_678@steam.ua,40678,Game Vol.678,In Library,0.0,2%
+user_unique_679,player_679@steam.ua,40679,Game Vol.679,Running,59.99,46%
+user_unique_680,player_680@steam.ua,40680,Game Vol.680,Running,9.99,11%
+user_unique_681,player_681@steam.ua,40681,Game Vol.681,Installed,9.99,46%
+user_unique_682,player_682@steam.ua,40682,Game Vol.682,Running,9.99,19%
+user_unique_683,player_683@steam.ua,40683,Game Vol.683,Running,0.0,72%
+user_unique_684,player_684@steam.ua,40684,Game Vol.684,Installed,19.99,35%
+user_unique_685,player_685@steam.ua,40685,Game Vol.685,In Library,19.99,30%
+user_unique_686,player_686@steam.ua,40686,Game Vol.686,Installed,29.5,13%
+user_unique_687,player_687@steam.ua,40687,Game Vol.687,Running,59.99,44%
+user_unique_688,player_688@steam.ua,40688,Game Vol.688,Installed,9.99,95%
+user_unique_689,player_689@steam.ua,40689,Game Vol.689,Installed,19.99,85%
+user_unique_690,player_690@steam.ua,40690,Game Vol.690,Installed,29.5,92%
+user_unique_691,player_691@steam.ua,40691,Game Vol.691,Running,0.0,43%
+user_unique_692,player_692@steam.ua,40692,Game Vol.692,In Library,29.5,12%
+user_unique_693,player_693@steam.ua,40693,Game Vol.693,Installed,19.99,86%
+user_unique_694,player_694@steam.ua,40694,Game Vol.694,Installed,9.99,91%
+user_unique_695,player_695@steam.ua,40695,Game Vol.695,Installed,29.5,86%
+user_unique_696,player_696@steam.ua,40696,Game Vol.696,In Library,9.99,50%
+user_unique_697,player_697@steam.ua,40697,Game Vol.697,Running,19.99,100%
+user_unique_698,player_698@steam.ua,40698,Game Vol.698,Installed,0.0,11%
+user_unique_699,player_699@steam.ua,40699,Game Vol.699,In Library,29.5,52%
+user_unique_700,player_700@steam.ua,40700,Game Vol.700,Running,19.99,26%
+user_unique_701,player_701@steam.ua,40701,Game Vol.701,Running,59.99,76%
+user_unique_702,player_702@steam.ua,40702,Game Vol.702,Running,19.99,81%
+user_unique_703,player_703@steam.ua,40703,Game Vol.703,Installed,0.0,42%
+user_unique_704,player_704@steam.ua,40704,Game Vol.704,Installed,0.0,9%
+user_unique_705,player_705@steam.ua,40705,Game Vol.705,Installed,19.99,32%
+user_unique_706,player_706@steam.ua,40706,Game Vol.706,Running,59.99,27%
+user_unique_707,player_707@steam.ua,40707,Game Vol.707,In Library,0.0,22%
+user_unique_708,player_708@steam.ua,40708,Game Vol.708,Installed,9.99,57%
+user_unique_709,player_709@steam.ua,40709,Game Vol.709,Running,0.0,54%
+user_unique_710,player_710@steam.ua,40710,Game Vol.710,Installed,59.99,90%
+user_unique_711,player_711@steam.ua,40711,Game Vol.711,Installed,0.0,81%
+user_unique_712,player_712@steam.ua,40712,Game Vol.712,Installed,59.99,84%
+user_unique_713,player_713@steam.ua,40713,Game Vol.713,Running,19.99,93%
+user_unique_714,player_714@steam.ua,40714,Game Vol.714,Installed,0.0,20%
+user_unique_715,player_715@steam.ua,40715,Game Vol.715,In Library,29.5,84%
+user_unique_716,player_716@steam.ua,40716,Game Vol.716,Installed,29.5,16%
+user_unique_717,player_717@steam.ua,40717,Game Vol.717,Installed,0.0,52%
+user_unique_718,player_718@steam.ua,40718,Game Vol.718,In Library,0.0,1%
+user_unique_719,player_719@steam.ua,40719,Game Vol.719,In Library,9.99,85%
+user_unique_720,player_720@steam.ua,40720,Game Vol.720,Running,9.99,75%
+user_unique_721,player_721@steam.ua,40721,Game Vol.721,In Library,9.99,2%
+user_unique_722,player_722@steam.ua,40722,Game Vol.722,Running,19.99,72%
+user_unique_723,player_723@steam.ua,40723,Game Vol.723,In Library,59.99,83%
+user_unique_724,player_724@steam.ua,40724,Game Vol.724,Running,0.0,97%
+user_unique_725,player_725@steam.ua,40725,Game Vol.725,Installed,19.99,78%
+user_unique_726,player_726@steam.ua,40726,Game Vol.726,Installed,59.99,45%
+user_unique_727,player_727@steam.ua,40727,Game Vol.727,Running,29.5,75%
+user_unique_728,player_728@steam.ua,40728,Game Vol.728,Running,59.99,46%
+user_unique_729,player_729@steam.ua,40729,Game Vol.729,Installed,0.0,49%
+user_unique_730,player_730@steam.ua,40730,Game Vol.730,Running,9.99,67%
+user_unique_731,player_731@steam.ua,40731,Game Vol.731,Installed,59.99,12%
+user_unique_732,player_732@steam.ua,40732,Game Vol.732,Installed,29.5,99%
+user_unique_733,player_733@steam.ua,40733,Game Vol.733,Running,29.5,43%
+user_unique_734,player_734@steam.ua,40734,Game Vol.734,In Library,9.99,36%
+user_unique_735,player_735@steam.ua,40735,Game Vol.735,Installed,19.99,59%
+user_unique_736,player_736@steam.ua,40736,Game Vol.736,In Library,59.99,6%
+user_unique_737,player_737@steam.ua,40737,Game Vol.737,Installed,0.0,31%
+user_unique_738,player_738@steam.ua,40738,Game Vol.738,Installed,19.99,89%
+user_unique_739,player_739@steam.ua,40739,Game Vol.739,In Library,0.0,71%
+user_unique_740,player_740@steam.ua,40740,Game Vol.740,In Library,0.0,13%
+user_unique_741,player_741@steam.ua,40741,Game Vol.741,Installed,29.5,90%
+user_unique_742,player_742@steam.ua,40742,Game Vol.742,Installed,9.99,25%
+user_unique_743,player_743@steam.ua,40743,Game Vol.743,Installed,0.0,79%
+user_unique_744,player_744@steam.ua,40744,Game Vol.744,In Library,9.99,35%
+user_unique_745,player_745@steam.ua,40745,Game Vol.745,Running,29.5,16%
+user_unique_746,player_746@steam.ua,40746,Game Vol.746,In Library,19.99,48%
+user_unique_747,player_747@steam.ua,40747,Game Vol.747,Installed,0.0,90%
+user_unique_748,player_748@steam.ua,40748,Game Vol.748,Running,29.5,29%
+user_unique_749,player_749@steam.ua,40749,Game Vol.749,Running,19.99,68%
+user_unique_750,player_750@steam.ua,40750,Game Vol.750,Running,0.0,31%
+user_unique_751,player_751@steam.ua,40751,Game Vol.751,In Library,19.99,12%
+user_unique_752,player_752@steam.ua,40752,Game Vol.752,Running,9.99,76%
+user_unique_753,player_753@steam.ua,40753,Game Vol.753,In Library,59.99,49%
+user_unique_754,player_754@steam.ua,40754,Game Vol.754,Running,19.99,30%
+user_unique_755,player_755@steam.ua,40755,Game Vol.755,Running,9.99,47%
+user_unique_756,player_756@steam.ua,40756,Game Vol.756,In Library,0.0,80%
+user_unique_757,player_757@steam.ua,40757,Game Vol.757,Running,9.99,50%
+user_unique_758,player_758@steam.ua,40758,Game Vol.758,In Library,59.99,5%
+user_unique_759,player_759@steam.ua,40759,Game Vol.759,Running,9.99,52%
+user_unique_760,player_760@steam.ua,40760,Game Vol.760,In Library,0.0,20%
+user_unique_761,player_761@steam.ua,40761,Game Vol.761,Running,19.99,55%
+user_unique_762,player_762@steam.ua,40762,Game Vol.762,Installed,19.99,24%
+user_unique_763,player_763@steam.ua,40763,Game Vol.763,Running,29.5,92%
+user_unique_764,player_764@steam.ua,40764,Game Vol.764,In Library,0.0,54%
+user_unique_765,player_765@steam.ua,40765,Game Vol.765,In Library,0.0,42%
+user_unique_766,player_766@steam.ua,40766,Game Vol.766,Installed,59.99,29%
+user_unique_767,player_767@steam.ua,40767,Game Vol.767,Installed,9.99,85%
+user_unique_768,player_768@steam.ua,40768,Game Vol.768,Installed,0.0,65%
+user_unique_769,player_769@steam.ua,40769,Game Vol.769,Running,19.99,9%
+user_unique_770,player_770@steam.ua,40770,Game Vol.770,Installed,9.99,93%
+user_unique_771,player_771@steam.ua,40771,Game Vol.771,Installed,0.0,57%
+user_unique_772,player_772@steam.ua,40772,Game Vol.772,In Library,29.5,59%
+user_unique_773,player_773@steam.ua,40773,Game Vol.773,Running,59.99,43%
+user_unique_774,player_774@steam.ua,40774,Game Vol.774,Running,59.99,17%
+user_unique_775,player_775@steam.ua,40775,Game Vol.775,In Library,19.99,24%
+user_unique_776,player_776@steam.ua,40776,Game Vol.776,In Library,19.99,97%
+user_unique_777,player_777@steam.ua,40777,Game Vol.777,Running,59.99,33%
+user_unique_778,player_778@steam.ua,40778,Game Vol.778,Installed,19.99,4%
+user_unique_779,player_779@steam.ua,40779,Game Vol.779,In Library,19.99,88%
+user_unique_780,player_780@steam.ua,40780,Game Vol.780,Installed,9.99,2%
+user_unique_781,player_781@steam.ua,40781,Game Vol.781,Installed,0.0,96%
+user_unique_782,player_782@steam.ua,40782,Game Vol.782,Running,0.0,91%
+user_unique_783,player_783@steam.ua,40783,Game Vol.783,Installed,19.99,48%
+user_unique_784,player_784@steam.ua,40784,Game Vol.784,Running,0.0,73%
+user_unique_785,player_785@steam.ua,40785,Game Vol.785,In Library,19.99,49%
+user_unique_786,player_786@steam.ua,40786,Game Vol.786,Installed,19.99,50%
+user_unique_787,player_787@steam.ua,40787,Game Vol.787,In Library,9.99,2%
+user_unique_788,player_788@steam.ua,40788,Game Vol.788,Running,9.99,5%
+user_unique_789,player_789@steam.ua,40789,Game Vol.789,In Library,19.99,94%
+user_unique_790,player_790@steam.ua,40790,Game Vol.790,Installed,0.0,31%
+user_unique_791,player_791@steam.ua,40791,Game Vol.791,Running,9.99,73%
+user_unique_792,player_792@steam.ua,40792,Game Vol.792,In Library,0.0,68%
+user_unique_793,player_793@steam.ua,40793,Game Vol.793,Running,0.0,14%
+user_unique_794,player_794@steam.ua,40794,Game Vol.794,In Library,0.0,95%
+user_unique_795,player_795@steam.ua,40795,Game Vol.795,Running,0.0,57%
+user_unique_796,player_796@steam.ua,40796,Game Vol.796,Running,9.99,85%
+user_unique_797,player_797@steam.ua,40797,Game Vol.797,In Library,19.99,100%
+user_unique_798,player_798@steam.ua,40798,Game Vol.798,Running,19.99,89%
+user_unique_799,player_799@steam.ua,40799,Game Vol.799,In Library,19.99,20%
+user_unique_800,player_800@steam.ua,40800,Game Vol.800,Installed,59.99,68%
+user_unique_801,player_801@steam.ua,40801,Game Vol.801,Installed,9.99,93%
+user_unique_802,player_802@steam.ua,40802,Game Vol.802,In Library,0.0,0%
+user_unique_803,player_803@steam.ua,40803,Game Vol.803,In Library,19.99,89%
+user_unique_804,player_804@steam.ua,40804,Game Vol.804,Installed,0.0,10%
+user_unique_805,player_805@steam.ua,40805,Game Vol.805,Installed,0.0,100%
+user_unique_806,player_806@steam.ua,40806,Game Vol.806,Installed,0.0,33%
+user_unique_807,player_807@steam.ua,40807,Game Vol.807,Installed,29.5,85%
+user_unique_808,player_808@steam.ua,40808,Game Vol.808,Installed,29.5,52%
+user_unique_809,player_809@steam.ua,40809,Game Vol.809,Installed,59.99,82%
+user_unique_810,player_810@steam.ua,40810,Game Vol.810,Running,59.99,55%
+user_unique_811,player_811@steam.ua,40811,Game Vol.811,Running,0.0,23%
+user_unique_812,player_812@steam.ua,40812,Game Vol.812,In Library,9.99,19%
+user_unique_813,player_813@steam.ua,40813,Game Vol.813,In Library,29.5,44%
+user_unique_814,player_814@steam.ua,40814,Game Vol.814,Installed,9.99,83%
+user_unique_815,player_815@steam.ua,40815,Game Vol.815,Installed,9.99,83%
+user_unique_816,player_816@steam.ua,40816,Game Vol.816,Running,9.99,53%
+user_unique_817,player_817@steam.ua,40817,Game Vol.817,Installed,9.99,90%
+user_unique_818,player_818@steam.ua,40818,Game Vol.818,Running,29.5,59%
+user_unique_819,player_819@steam.ua,40819,Game Vol.819,Installed,19.99,90%
+user_unique_820,player_820@steam.ua,40820,Game Vol.820,In Library,59.99,59%
+user_unique_821,player_821@steam.ua,40821,Game Vol.821,In Library,29.5,40%
+user_unique_822,player_822@steam.ua,40822,Game Vol.822,Running,0.0,91%
+user_unique_823,player_823@steam.ua,40823,Game Vol.823,Installed,29.5,54%
+user_unique_824,player_824@steam.ua,40824,Game Vol.824,In Library,59.99,39%
+user_unique_825,player_825@steam.ua,40825,Game Vol.825,Running,59.99,46%
+user_unique_826,player_826@steam.ua,40826,Game Vol.826,Installed,9.99,92%
+user_unique_827,player_827@steam.ua,40827,Game Vol.827,Running,0.0,31%
+user_unique_828,player_828@steam.ua,40828,Game Vol.828,Running,19.99,20%
+user_unique_829,player_829@steam.ua,40829,Game Vol.829,Running,29.5,95%
+user_unique_830,player_830@steam.ua,40830,Game Vol.830,Installed,0.0,15%
+user_unique_831,player_831@steam.ua,40831,Game Vol.831,In Library,9.99,23%
+user_unique_832,player_832@steam.ua,40832,Game Vol.832,Installed,59.99,47%
+user_unique_833,player_833@steam.ua,40833,Game Vol.833,In Library,9.99,5%
+user_unique_834,player_834@steam.ua,40834,Game Vol.834,Installed,19.99,27%
+user_unique_835,player_835@steam.ua,40835,Game Vol.835,In Library,19.99,91%
+user_unique_836,player_836@steam.ua,40836,Game Vol.836,In Library,59.99,31%
+user_unique_837,player_837@steam.ua,40837,Game Vol.837,Running,29.5,76%
+user_unique_838,player_838@steam.ua,40838,Game Vol.838,Running,59.99,61%
+user_unique_839,player_839@steam.ua,40839,Game Vol.839,Installed,19.99,45%
+user_unique_840,player_840@steam.ua,40840,Game Vol.840,Running,0.0,39%
+user_unique_841,player_841@steam.ua,40841,Game Vol.841,In Library,9.99,21%
+user_unique_842,player_842@steam.ua,40842,Game Vol.842,In Library,19.99,79%
+user_unique_843,player_843@steam.ua,40843,Game Vol.843,Installed,19.99,0%
+user_unique_844,player_844@steam.ua,40844,Game Vol.844,Installed,19.99,32%
+user_unique_845,player_845@steam.ua,40845,Game Vol.845,In Library,0.0,17%
+user_unique_846,player_846@steam.ua,40846,Game Vol.846,Installed,29.5,7%
+user_unique_847,player_847@steam.ua,40847,Game Vol.847,In Library,29.5,85%
+user_unique_848,player_848@steam.ua,40848,Game Vol.848,In Library,0.0,94%
+user_unique_849,player_849@steam.ua,40849,Game Vol.849,In Library,29.5,86%
+user_unique_850,player_850@steam.ua,40850,Game Vol.850,Running,29.5,68%
+user_unique_851,player_851@steam.ua,40851,Game Vol.851,Installed,9.99,51%
+user_unique_852,player_852@steam.ua,40852,Game Vol.852,In Library,19.99,76%
+user_unique_853,player_853@steam.ua,40853,Game Vol.853,In Library,0.0,74%
+user_unique_854,player_854@steam.ua,40854,Game Vol.854,Running,19.99,43%
+user_unique_855,player_855@steam.ua,40855,Game Vol.855,Installed,29.5,52%
+user_unique_856,player_856@steam.ua,40856,Game Vol.856,Installed,9.99,48%
+user_unique_857,player_857@steam.ua,40857,Game Vol.857,Running,9.99,65%
+user_unique_858,player_858@steam.ua,40858,Game Vol.858,Installed,29.5,94%
+user_unique_859,player_859@steam.ua,40859,Game Vol.859,In Library,0.0,34%
+user_unique_860,player_860@steam.ua,40860,Game Vol.860,Installed,0.0,72%
+user_unique_861,player_861@steam.ua,40861,Game Vol.861,Installed,9.99,50%
+user_unique_862,player_862@steam.ua,40862,Game Vol.862,Installed,19.99,98%
+user_unique_863,player_863@steam.ua,40863,Game Vol.863,In Library,29.5,21%
+user_unique_864,player_864@steam.ua,40864,Game Vol.864,In Library,9.99,78%
+user_unique_865,player_865@steam.ua,40865,Game Vol.865,Installed,59.99,18%
+user_unique_866,player_866@steam.ua,40866,Game Vol.866,Running,19.99,85%
+user_unique_867,player_867@steam.ua,40867,Game Vol.867,Installed,0.0,7%
+user_unique_868,player_868@steam.ua,40868,Game Vol.868,Running,0.0,10%
+user_unique_869,player_869@steam.ua,40869,Game Vol.869,In Library,0.0,30%
+user_unique_870,player_870@steam.ua,40870,Game Vol.870,In Library,9.99,54%
+user_unique_871,player_871@steam.ua,40871,Game Vol.871,Running,59.99,95%
+user_unique_872,player_872@steam.ua,40872,Game Vol.872,Running,29.5,58%
+user_unique_873,player_873@steam.ua,40873,Game Vol.873,Installed,0.0,47%
+user_unique_874,player_874@steam.ua,40874,Game Vol.874,Running,59.99,94%
+user_unique_875,player_875@steam.ua,40875,Game Vol.875,Running,59.99,76%
+user_unique_876,player_876@steam.ua,40876,Game Vol.876,Installed,0.0,96%
+user_unique_877,player_877@steam.ua,40877,Game Vol.877,Running,9.99,33%
+user_unique_878,player_878@steam.ua,40878,Game Vol.878,Running,29.5,17%
+user_unique_879,player_879@steam.ua,40879,Game Vol.879,In Library,9.99,28%
+user_unique_880,player_880@steam.ua,40880,Game Vol.880,In Library,9.99,40%
+user_unique_881,player_881@steam.ua,40881,Game Vol.881,In Library,59.99,87%
+user_unique_882,player_882@steam.ua,40882,Game Vol.882,Installed,59.99,76%
+user_unique_883,player_883@steam.ua,40883,Game Vol.883,Running,9.99,43%
+user_unique_884,player_884@steam.ua,40884,Game Vol.884,Running,0.0,50%
+user_unique_885,player_885@steam.ua,40885,Game Vol.885,In Library,19.99,80%
+user_unique_886,player_886@steam.ua,40886,Game Vol.886,Running,0.0,23%
+user_unique_887,player_887@steam.ua,40887,Game Vol.887,Running,59.99,100%
+user_unique_888,player_888@steam.ua,40888,Game Vol.888,In Library,29.5,70%
+user_unique_889,player_889@steam.ua,40889,Game Vol.889,Running,59.99,45%
+user_unique_890,player_890@steam.ua,40890,Game Vol.890,In Library,9.99,100%
+user_unique_891,player_891@steam.ua,40891,Game Vol.891,Installed,59.99,99%
+user_unique_892,player_892@steam.ua,40892,Game Vol.892,Installed,9.99,82%
+user_unique_893,player_893@steam.ua,40893,Game Vol.893,Installed,9.99,10%
+user_unique_894,player_894@steam.ua,40894,Game Vol.894,In Library,59.99,90%
+user_unique_895,player_895@steam.ua,40895,Game Vol.895,In Library,19.99,39%
+user_unique_896,player_896@steam.ua,40896,Game Vol.896,Running,59.99,69%
+user_unique_897,player_897@steam.ua,40897,Game Vol.897,In Library,19.99,53%
+user_unique_898,player_898@steam.ua,40898,Game Vol.898,Running,59.99,89%
+user_unique_899,player_899@steam.ua,40899,Game Vol.899,Installed,9.99,50%
+user_unique_900,player_900@steam.ua,40900,Game Vol.900,In Library,59.99,15%
+user_unique_901,player_901@steam.ua,40901,Game Vol.901,Installed,59.99,0%
+user_unique_902,player_902@steam.ua,40902,Game Vol.902,Installed,0.0,43%
+user_unique_903,player_903@steam.ua,40903,Game Vol.903,Running,29.5,70%
+user_unique_904,player_904@steam.ua,40904,Game Vol.904,In Library,59.99,87%
+user_unique_905,player_905@steam.ua,40905,Game Vol.905,In Library,19.99,2%
+user_unique_906,player_906@steam.ua,40906,Game Vol.906,In Library,29.5,24%
+user_unique_907,player_907@steam.ua,40907,Game Vol.907,Running,59.99,28%
+user_unique_908,player_908@steam.ua,40908,Game Vol.908,Installed,9.99,71%
+user_unique_909,player_909@steam.ua,40909,Game Vol.909,Installed,59.99,69%
+user_unique_910,player_910@steam.ua,40910,Game Vol.910,In Library,9.99,90%
+user_unique_911,player_911@steam.ua,40911,Game Vol.911,Installed,59.99,84%
+user_unique_912,player_912@steam.ua,40912,Game Vol.912,Installed,9.99,7%
+user_unique_913,player_913@steam.ua,40913,Game Vol.913,Installed,19.99,29%
+user_unique_914,player_914@steam.ua,40914,Game Vol.914,Installed,19.99,30%
+user_unique_915,player_915@steam.ua,40915,Game Vol.915,Running,59.99,55%
+user_unique_916,player_916@steam.ua,40916,Game Vol.916,In Library,29.5,39%
+user_unique_917,player_917@steam.ua,40917,Game Vol.917,Installed,19.99,62%
+user_unique_918,player_918@steam.ua,40918,Game Vol.918,Running,0.0,10%
+user_unique_919,player_919@steam.ua,40919,Game Vol.919,Running,0.0,28%
+user_unique_920,player_920@steam.ua,40920,Game Vol.920,Running,9.99,77%
+user_unique_921,player_921@steam.ua,40921,Game Vol.921,Installed,0.0,9%
+user_unique_922,player_922@steam.ua,40922,Game Vol.922,In Library,59.99,4%
+user_unique_923,player_923@steam.ua,40923,Game Vol.923,Running,0.0,100%
+user_unique_924,player_924@steam.ua,40924,Game Vol.924,Running,29.5,4%
+user_unique_925,player_925@steam.ua,40925,Game Vol.925,Installed,9.99,61%
+user_unique_926,player_926@steam.ua,40926,Game Vol.926,Running,59.99,53%
+user_unique_927,player_927@steam.ua,40927,Game Vol.927,Running,9.99,55%
+user_unique_928,player_928@steam.ua,40928,Game Vol.928,In Library,59.99,69%
+user_unique_929,player_929@steam.ua,40929,Game Vol.929,Running,19.99,6%
+user_unique_930,player_930@steam.ua,40930,Game Vol.930,Running,19.99,49%
+user_unique_931,player_931@steam.ua,40931,Game Vol.931,Running,59.99,79%
+user_unique_932,player_932@steam.ua,40932,Game Vol.932,Running,0.0,35%
+user_unique_933,player_933@steam.ua,40933,Game Vol.933,In Library,9.99,100%
+user_unique_934,player_934@steam.ua,40934,Game Vol.934,Running,29.5,87%
+user_unique_935,player_935@steam.ua,40935,Game Vol.935,Installed,59.99,75%
+user_unique_936,player_936@steam.ua,40936,Game Vol.936,In Library,29.5,72%
+user_unique_937,player_937@steam.ua,40937,Game Vol.937,In Library,0.0,71%
+user_unique_938,player_938@steam.ua,40938,Game Vol.938,Running,59.99,90%
+user_unique_939,player_939@steam.ua,40939,Game Vol.939,Installed,19.99,40%
+user_unique_940,player_940@steam.ua,40940,Game Vol.940,Running,29.5,81%
+user_unique_941,player_941@steam.ua,40941,Game Vol.941,Running,9.99,47%
+user_unique_942,player_942@steam.ua,40942,Game Vol.942,Running,9.99,44%
+user_unique_943,player_943@steam.ua,40943,Game Vol.943,Installed,0.0,13%
+user_unique_944,player_944@steam.ua,40944,Game Vol.944,Running,29.5,33%
+user_unique_945,player_945@steam.ua,40945,Game Vol.945,Installed,59.99,6%
+user_unique_946,player_946@steam.ua,40946,Game Vol.946,Running,59.99,18%
+user_unique_947,player_947@steam.ua,40947,Game Vol.947,Installed,19.99,57%
+user_unique_948,player_948@steam.ua,40948,Game Vol.948,Installed,19.99,35%
+user_unique_949,player_949@steam.ua,40949,Game Vol.949,Installed,0.0,11%
+user_unique_950,player_950@steam.ua,40950,Game Vol.950,Installed,0.0,7%
+user_unique_951,player_951@steam.ua,40951,Game Vol.951,Running,59.99,23%
+user_unique_952,player_952@steam.ua,40952,Game Vol.952,Running,29.5,22%
+user_unique_953,player_953@steam.ua,40953,Game Vol.953,In Library,19.99,26%
+user_unique_954,player_954@steam.ua,40954,Game Vol.954,Running,59.99,60%
+user_unique_955,player_955@steam.ua,40955,Game Vol.955,In Library,0.0,41%
+user_unique_956,player_956@steam.ua,40956,Game Vol.956,Running,9.99,34%
+user_unique_957,player_957@steam.ua,40957,Game Vol.957,Installed,29.5,33%
+user_unique_958,player_958@steam.ua,40958,Game Vol.958,In Library,59.99,60%
+user_unique_959,player_959@steam.ua,40959,Game Vol.959,Installed,0.0,47%
+user_unique_960,player_960@steam.ua,40960,Game Vol.960,Running,29.5,29%
+user_unique_961,player_961@steam.ua,40961,Game Vol.961,Installed,0.0,70%
+user_unique_962,player_962@steam.ua,40962,Game Vol.962,Installed,59.99,19%
+user_unique_963,player_963@steam.ua,40963,Game Vol.963,Installed,0.0,34%
+user_unique_964,player_964@steam.ua,40964,Game Vol.964,In Library,59.99,17%
+user_unique_965,player_965@steam.ua,40965,Game Vol.965,Installed,59.99,36%
+user_unique_966,player_966@steam.ua,40966,Game Vol.966,Running,59.99,64%
+user_unique_967,player_967@steam.ua,40967,Game Vol.967,Installed,59.99,30%
+user_unique_968,player_968@steam.ua,40968,Game Vol.968,Running,0.0,18%
+user_unique_969,player_969@steam.ua,40969,Game Vol.969,In Library,9.99,46%
+user_unique_970,player_970@steam.ua,40970,Game Vol.970,Installed,29.5,83%
+user_unique_971,player_971@steam.ua,40971,Game Vol.971,Running,9.99,14%
+user_unique_972,player_972@steam.ua,40972,Game Vol.972,Installed,59.99,60%
+user_unique_973,player_973@steam.ua,40973,Game Vol.973,Installed,0.0,7%
+user_unique_974,player_974@steam.ua,40974,Game Vol.974,Installed,0.0,54%
+user_unique_975,player_975@steam.ua,40975,Game Vol.975,In Library,9.99,78%
+user_unique_976,player_976@steam.ua,40976,Game Vol.976,Running,9.99,73%
+user_unique_977,player_977@steam.ua,40977,Game Vol.977,Installed,59.99,21%
+user_unique_978,player_978@steam.ua,40978,Game Vol.978,Running,29.5,76%
+user_unique_979,player_979@steam.ua,40979,Game Vol.979,In Library,29.5,60%
+user_unique_980,player_980@steam.ua,40980,Game Vol.980,In Library,29.5,81%
+user_unique_981,player_981@steam.ua,40981,Game Vol.981,Installed,19.99,72%
+user_unique_982,player_982@steam.ua,40982,Game Vol.982,Installed,9.99,84%
+user_unique_983,player_983@steam.ua,40983,Game Vol.983,Running,19.99,81%
+user_unique_984,player_984@steam.ua,40984,Game Vol.984,Running,0.0,93%
+user_unique_985,player_985@steam.ua,40985,Game Vol.985,Installed,0.0,55%
+user_unique_986,player_986@steam.ua,40986,Game Vol.986,Installed,59.99,1%
+user_unique_987,player_987@steam.ua,40987,Game Vol.987,Running,9.99,90%
+user_unique_988,player_988@steam.ua,40988,Game Vol.988,Running,0.0,10%
+user_unique_989,player_989@steam.ua,40989,Game Vol.989,In Library,29.5,55%
+user_unique_990,player_990@steam.ua,40990,Game Vol.990,Installed,59.99,99%
+user_unique_991,player_991@steam.ua,40991,Game Vol.991,In Library,0.0,65%
+user_unique_992,player_992@steam.ua,40992,Game Vol.992,Running,29.5,93%
+user_unique_993,player_993@steam.ua,40993,Game Vol.993,In Library,0.0,53%
+user_unique_994,player_994@steam.ua,40994,Game Vol.994,In Library,29.5,6%
+user_unique_995,player_995@steam.ua,40995,Game Vol.995,Running,19.99,82%
+user_unique_996,player_996@steam.ua,40996,Game Vol.996,Installed,59.99,69%
+user_unique_997,player_997@steam.ua,40997,Game Vol.997,In Library,59.99,29%
+user_unique_998,player_998@steam.ua,40998,Game Vol.998,Installed,9.99,52%
+user_unique_999,player_999@steam.ua,40999,Game Vol.999,Installed,9.99,7%
+user_unique_1000,player_1000@steam.ua,41000,Game Vol.1000,Running,19.99,55%
+user_unique_1001,player_1001@steam.ua,41001,Game Vol.1001,Running,59.99,40%
+user_unique_1002,player_1002@steam.ua,41002,Game Vol.1002,Installed,19.99,10%
+user_unique_1003,player_1003@steam.ua,41003,Game Vol.1003,Running,59.99,64%
+user_unique_1004,player_1004@steam.ua,41004,Game Vol.1004,Installed,19.99,37%
+user_unique_1005,player_1005@steam.ua,41005,Game Vol.1005,Installed,59.99,62%
+user_unique_1006,player_1006@steam.ua,41006,Game Vol.1006,In Library,59.99,23%
+user_unique_1007,player_1007@steam.ua,41007,Game Vol.1007,Installed,29.5,3%
+user_unique_1008,player_1008@steam.ua,41008,Game Vol.1008,In Library,59.99,37%
+user_unique_1009,player_1009@steam.ua,41009,Game Vol.1009,Installed,29.5,30%
+user_unique_1010,player_1010@steam.ua,41010,Game Vol.1010,Installed,19.99,34%
+user_unique_1011,player_1011@steam.ua,41011,Game Vol.1011,Running,59.99,7%
+user_unique_1012,player_1012@steam.ua,41012,Game Vol.1012,In Library,29.5,9%
+user_unique_1013,player_1013@steam.ua,41013,Game Vol.1013,Running,0.0,99%
+user_unique_1014,player_1014@steam.ua,41014,Game Vol.1014,Running,9.99,24%
+user_unique_1015,player_1015@steam.ua,41015,Game Vol.1015,Installed,19.99,19%
+user_unique_1016,player_1016@steam.ua,41016,Game Vol.1016,Installed,29.5,37%
+user_unique_1017,player_1017@steam.ua,41017,Game Vol.1017,Running,9.99,41%
+user_unique_1018,player_1018@steam.ua,41018,Game Vol.1018,Installed,9.99,31%
+user_unique_1019,player_1019@steam.ua,41019,Game Vol.1019,In Library,9.99,42%
+user_unique_1020,player_1020@steam.ua,41020,Game Vol.1020,Installed,29.5,22%
+user_unique_1021,player_1021@steam.ua,41021,Game Vol.1021,Running,0.0,10%
+user_unique_1022,player_1022@steam.ua,41022,Game Vol.1022,Installed,0.0,28%
+user_unique_1023,player_1023@steam.ua,41023,Game Vol.1023,In Library,0.0,51%
+user_unique_1024,player_1024@steam.ua,41024,Game Vol.1024,Installed,59.99,46%
+user_unique_1025,player_1025@steam.ua,41025,Game Vol.1025,In Library,9.99,42%
+user_unique_1026,player_1026@steam.ua,41026,Game Vol.1026,Installed,19.99,57%
+user_unique_1027,player_1027@steam.ua,41027,Game Vol.1027,In Library,59.99,64%
+user_unique_1028,player_1028@steam.ua,41028,Game Vol.1028,In Library,9.99,50%
+user_unique_1029,player_1029@steam.ua,41029,Game Vol.1029,In Library,59.99,6%
+user_unique_1030,player_1030@steam.ua,41030,Game Vol.1030,Installed,29.5,83%
+user_unique_1031,player_1031@steam.ua,41031,Game Vol.1031,In Library,19.99,56%
+user_unique_1032,player_1032@steam.ua,41032,Game Vol.1032,Running,9.99,45%
+user_unique_1033,player_1033@steam.ua,41033,Game Vol.1033,In Library,19.99,44%
+user_unique_1034,player_1034@steam.ua,41034,Game Vol.1034,In Library,59.99,70%
+user_unique_1035,player_1035@steam.ua,41035,Game Vol.1035,In Library,9.99,38%
+user_unique_1036,player_1036@steam.ua,41036,Game Vol.1036,In Library,29.5,84%
+user_unique_1037,player_1037@steam.ua,41037,Game Vol.1037,In Library,0.0,68%
+user_unique_1038,player_1038@steam.ua,41038,Game Vol.1038,In Library,59.99,58%
+user_unique_1039,player_1039@steam.ua,41039,Game Vol.1039,Running,9.99,6%
+user_unique_1040,player_1040@steam.ua,41040,Game Vol.1040,Running,9.99,50%
+user_unique_1041,player_1041@steam.ua,41041,Game Vol.1041,Running,29.5,43%
+user_unique_1042,player_1042@steam.ua,41042,Game Vol.1042,In Library,59.99,2%
+user_unique_1043,player_1043@steam.ua,41043,Game Vol.1043,Installed,59.99,61%
+user_unique_1044,player_1044@steam.ua,41044,Game Vol.1044,Installed,0.0,8%
+user_unique_1045,player_1045@steam.ua,41045,Game Vol.1045,Installed,19.99,82%
+user_unique_1046,player_1046@steam.ua,41046,Game Vol.1046,Running,19.99,30%
+user_unique_1047,player_1047@steam.ua,41047,Game Vol.1047,Installed,29.5,67%
+user_unique_1048,player_1048@steam.ua,41048,Game Vol.1048,Running,59.99,27%
+user_unique_1049,player_1049@steam.ua,41049,Game Vol.1049,Installed,19.99,0%
+user_unique_1050,player_1050@steam.ua,41050,Game Vol.1050,In Library,9.99,65%

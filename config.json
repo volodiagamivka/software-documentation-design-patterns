@@ -1,0 +1,7 @@
+{
+  "output_mode": "kafka",
+  "redis_config": {
+    "host": "localhost",
+    "port": 6379
+  }
+}

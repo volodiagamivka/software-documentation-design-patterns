@@ -8,7 +8,6 @@ class DataProcessor:
         try:
             with open(file_path, mode='r', encoding='utf-8-sig') as f:
                 reader = csv.DictReader(f)
-                # Очищуємо назви колонок від можливих лапок або пробілів
                 reader.fieldnames = [name.strip('"').strip() for name in reader.fieldnames]
                 
                 data_to_send = []
